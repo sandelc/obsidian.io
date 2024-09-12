@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LabNotes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>LabNotes</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 12 Sep 2024 06:42:51 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 12 Sep 2024 06:42:50 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[2024-09-10]]></title><description><![CDATA[ 
+ <br>Flat mounted and stained 4 eye cups from 1 sodium iodide mouse 1 healthy mouse from <a data-href="PilotStudy1" href="publications/regunfirstauthor/experiments/functionalassays/pilotstudy1.html" class="internal-link" target="_self" rel="noopener">PilotStudy1</a><br>
+<br>Discussed Vitreal Injection Assay.  Began planning for <a data-href="Vitreal_Injections" href="publications/regunfirstauthor/experiments/functionalassays/vitreal_injections.html" class="internal-link" target="_self" rel="noopener">Vitreal_Injections</a>
+
+<br>With Anti-CD8
+<br>Adoptive Transfer of CD8 into eye
+
+
+]]></description><link>calendarnotes/2024-09-10.html</link><guid isPermaLink="false">CalendarNotes/2024-09-10.md</guid><pubDate>Thu, 12 Sep 2024 03:58:53 GMT</pubDate></item><item><title><![CDATA[2024-09-11]]></title><description><![CDATA[ 
+ <br>Ran <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a> with Dr. Chen.<br>
+Notes  - CD3 had poor separation<br>
+Dr. Chen provided two other CD3 AB aliquots to try.<br>
+Will run panel for formal training on <a data-href="2024-09-16" href="calendarnotes/2024-09-16.html" class="internal-link" target="_self" rel="noopener">2024-09-16</a><br>3 mice treated with sodium iodide, harvest on Monday <a data-href="2024-09-16" href="calendarnotes/2024-09-16.html" class="internal-link" target="_self" rel="noopener">2024-09-16</a>]]></description><link>calendarnotes/2024-09-11.html</link><guid isPermaLink="false">CalendarNotes/2024-09-11.md</guid><pubDate>Wed, 11 Sep 2024 20:44:01 GMT</pubDate></item><item><title><![CDATA[2024-09-12]]></title><description><![CDATA[<a class="tag" href="?query=tag:CD8" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CD8</a> <a class="tag" href="?query=tag:CytotoxicityAssay" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CytotoxicityAssay</a> <a class="tag" href="?query=tag:TCellCulture" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TCellCulture</a> <a class="tag" href="?query=tag:CD8BeadIsolation" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CD8BeadIsolation</a> 
+ <br>
+<br>Kids Counselor at 12pm.  Must walk out the door by 11:15.
+<br>Must get protocol for <a data-href="TissueDigestion***REGUN PROTOCOL***" href="tissuedigestion***regun-protocol***.html" class="internal-link" target="_self" rel="noopener">TissueDigestion***REGUN PROTOCOL***</a> for flow w/Dr. Chen on <a data-href="2024-09-16" href="calendarnotes/2024-09-16.html" class="internal-link" target="_self" rel="noopener">2024-09-16</a>
+<br>start <a data-href="CD8CultureConditions" href="publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html" class="internal-link" target="_self" rel="noopener">CD8CultureConditions</a>
+<br><br>We are developing an assay to test CD8 cytotoxicity in eye cup<br>
+<br>Isolate CD8T from healthy spleen for <a data-href="RegunEtAlPaperStructure" href="publications/regunfirstauthor/regunetalpaperstructure.html" class="internal-link" target="_self" rel="noopener">RegunEtAlPaperStructure</a>
+
+<br>Conditions
+
+<br>DMEM 
+<br>DMEM + 10%FBS
+<br>DMEM + 10%FBS + IL-2 (concentration?)
+<br>RPMI + 10%FBS + IL-2
+
+
+<br>Timepoints
+
+<br>24, 48, 72 hours.
+
+
+<br>Total Wells = 4 conditions x 3 timepoints = 12 wells.
+<br>500,000 cells/well = 6e6 cells. 
+<br>Approx. 3 mice given <a data-href="ProcedureMetrics" href="methodsetc/proceduremetrics.html" class="internal-link" target="_self" rel="noopener">ProcedureMetrics</a><br>
+Metric: Viability on <a data-href="2024-09-12" href="calendarnotes/2024-09-12.html" class="internal-link" target="_self" rel="noopener">2024-09-12</a>, <a data-href="2024-09-13" href="calendarnotes/2024-09-13.html" class="internal-link" target="_self" rel="noopener">2024-09-13</a>, <a data-href="2024-09-14" href="calendarnotes/2024-09-14.html" class="internal-link" target="_self" rel="noopener">2024-09-14</a>, <a data-href="2024-09-15" href="calendarnotes/2024-09-15.html" class="internal-link" target="_self" rel="noopener">2024-09-15</a>
+
+
+<br><a href=".?query=tag:CD8" class="tag" target="_blank" rel="noopener">#CD8</a> <a href=".?query=tag:CytotoxicityAssay" class="tag" target="_blank" rel="noopener">#CytotoxicityAssay</a> <a href=".?query=tag:TCellCulture" class="tag" target="_blank" rel="noopener">#TCellCulture</a> <a href=".?query=tag:CD8BeadIsolation" class="tag" target="_blank" rel="noopener">#CD8BeadIsolation</a>]]></description><link>calendarnotes/2024-09-12.html</link><guid isPermaLink="false">CalendarNotes/2024-09-12.md</guid><pubDate>Thu, 12 Sep 2024 04:23:23 GMT</pubDate></item><item><title><![CDATA[2024-09-13]]></title><description><![CDATA[ 
+ <br><a data-href="CD8CultureConditions" href="publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html" class="internal-link" target="_self" rel="noopener">CD8CultureConditions</a><br>
+Viability Day 1:]]></description><link>calendarnotes/2024-09-13.html</link><guid isPermaLink="false">CalendarNotes/2024-09-13.md</guid><pubDate>Thu, 12 Sep 2024 04:07:53 GMT</pubDate></item><item><title><![CDATA[2024-09-14]]></title><description><![CDATA[ 
+ <br><a data-href="CD8CultureConditions" href="publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html" class="internal-link" target="_self" rel="noopener">CD8CultureConditions</a><br>
+Viability day 2]]></description><link>calendarnotes/2024-09-14.html</link><guid isPermaLink="false">CalendarNotes/2024-09-14.md</guid><pubDate>Thu, 12 Sep 2024 04:08:10 GMT</pubDate></item><item><title><![CDATA[2024-09-15]]></title><description><![CDATA[ 
+ <br><a data-href="CD8CultureConditions" href="publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html" class="internal-link" target="_self" rel="noopener">CD8CultureConditions</a><br>
+Viability day 3:]]></description><link>calendarnotes/2024-09-15.html</link><guid isPermaLink="false">CalendarNotes/2024-09-15.md</guid><pubDate>Thu, 12 Sep 2024 04:08:35 GMT</pubDate></item><item><title><![CDATA[2024-09-16]]></title><description><![CDATA[ 
+ <br>
+<br>Collect eyes and spleen from 3 mice (6 eyes) treated with sodium iodide.  
+<br>Isolate RPE, 
+<br>digest RPE, and stain digest and spleen for flow <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a>
+<br>spleen with full <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a><br>
+RPE with full <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a><br>titrate antibodies vs spleen needs plan<br>
+titrate antibodies vs rpe needs plan, needs info on how many cells<br>also use additional CD3 antibodies in single colors]]></description><link>calendarnotes/2024-09-16.html</link><guid isPermaLink="false">CalendarNotes/2024-09-16.md</guid><pubDate>Thu, 12 Sep 2024 04:26:35 GMT</pubDate></item><item><title><![CDATA[CD8 mem Flow Panel]]></title><description><![CDATA[ 
+ <br><a data-href="DevNotesP1" href="methodsetc/flow/devnotesp1.html" class="internal-link" target="_self" rel="noopener">DevNotesP1</a><br>CD3 BV421<br>
+CD4 AF488<br>
+CD8 PECy7<br>
+CD45RA BB700<br>
+CD45R AF594<br>
+CD44 SB702<br>
+CD62L APC<br>
+Ly6G BV605<br>
+CD49a PE<br>
+CD45 AF700<br>Via - Near Infrared]]></description><link>methodsetc/flow/cd8-mem-flow-panel.html</link><guid isPermaLink="false">MethodsEtc/Flow/CD8 mem Flow Panel.md</guid><pubDate>Wed, 11 Sep 2024 20:34:08 GMT</pubDate></item><item><title><![CDATA[DevNotesP1]]></title><description><![CDATA[ 
+ <br>This panel was run on RPE and Regun observed DP CD4/CD8 cells. Quite a lot.  <br>Assumption is that these cells are an artifact, but we need to make sure they are not occurring in the spleen.  If no DP cells are present in the spleen then the panel should be valid for the RPE also.<br>Same case with DN<br>CD3 clone x? had issues on ]]></description><link>methodsetc/flow/devnotesp1.html</link><guid isPermaLink="false">MethodsEtc/Flow/DevNotesP1.md</guid><pubDate>Wed, 11 Sep 2024 20:36:21 GMT</pubDate></item><item><title><![CDATA[CD8TcellBeadIsolation]]></title><description><![CDATA[ 
+ ]]></description><link>methodsetc/cd8tcellbeadisolation.html</link><guid isPermaLink="false">MethodsEtc/CD8TcellBeadIsolation.md</guid><pubDate>Thu, 12 Sep 2024 03:54:10 GMT</pubDate></item><item><title><![CDATA[ProcedureMetrics]]></title><description><![CDATA[ 
+ <br><a data-href="CD8TcellBeadIsolation" href="methodsetc/cd8tcellbeadisolation.html" class="internal-link" target="_self" rel="noopener">CD8TcellBeadIsolation</a><br>
+<br><a data-href="PilotStudy1" href="publications/regunfirstauthor/experiments/functionalassays/pilotstudy1.html" class="internal-link" target="_self" rel="noopener">PilotStudy1</a>
+
+<br>CD8 T cells ~1.8e6 - 2e6 per spleen
+<br>FITC labeling/anti-FITC beads
+
+
+]]></description><link>methodsetc/proceduremetrics.html</link><guid isPermaLink="false">MethodsEtc/ProcedureMetrics.md</guid><pubDate>Thu, 12 Sep 2024 03:56:45 GMT</pubDate></item><item><title><![CDATA[CD8-EyeCupExpt]]></title><description><![CDATA[ 
+ <br>We are developing a cytotoxicity assay to measure CD8 cytotoxicity/Effector function resulting from RPE/eye injury. ]]></description><link>publications/regunfirstauthor/experiments/functionalassays/cd8-eyecupexpt.html</link><guid isPermaLink="false">Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8-EyeCupExpt.md</guid><pubDate>Thu, 12 Sep 2024 03:28:24 GMT</pubDate></item><item><title><![CDATA[CD8CultureConditions]]></title><description><![CDATA[ 
+ <br>Plan:<br>
+We are developing an assay to test CD8 cytotoxicity in eye cup<br>
+<br>Isolate CD8T from healthy spleen for <a data-href="RegunEtAlPaperStructure" href="publications/regunfirstauthor/regunetalpaperstructure.html" class="internal-link" target="_self" rel="noopener">RegunEtAlPaperStructure</a>
+
+<br>Conditions
+
+<br>DMEM 
+<br>DMEM + 10%FBS
+<br>DMEM + 10%FBS + IL-2 (concentration?)
+<br>RPMI + 10%FBS + IL-2
+
+
+<br>Timepoints
+
+<br>24, 48, 72 hours.
+
+
+<br>Total Wells = 4 conditions x 3 timepoints = 12 wells.
+<br>500,000 cells/well = 6e6 cells. 
+<br>Approx. 3 mice given <a data-href="ProcedureMetrics" href="methodsetc/proceduremetrics.html" class="internal-link" target="_self" rel="noopener">ProcedureMetrics</a>
+
+
+<br>Execution notes:<br>Viability<br>
+<a data-href="2024-09-12" href="calendarnotes/2024-09-12.html" class="internal-link" target="_self" rel="noopener">2024-09-12</a><br>
+<a data-href="2024-09-13" href="calendarnotes/2024-09-13.html" class="internal-link" target="_self" rel="noopener">2024-09-13</a><br>
+<a data-href="2024-09-14" href="calendarnotes/2024-09-14.html" class="internal-link" target="_self" rel="noopener">2024-09-14</a><br>
+<a data-href="2024-09-15" href="calendarnotes/2024-09-15.html" class="internal-link" target="_self" rel="noopener">2024-09-15</a>]]></description><link>publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html</link><guid isPermaLink="false">Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8CultureConditions.md</guid><pubDate>Thu, 12 Sep 2024 04:23:36 GMT</pubDate></item><item><title><![CDATA[PilotStudy1]]></title><description><![CDATA[<a class="tag" href="?query=tag:Coculture" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Coculture</a> <a class="tag" href="?query=tag:CD8BeadIsolation" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CD8BeadIsolation</a> <a class="tag" href="?query=tag:TCellCulture" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TCellCulture</a> <a class="tag" href="?query=tag:CytotoxicityAssay" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CytotoxicityAssay</a> <a class="tag" href="?query=tag:InVitro" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#InVitro</a> 
+ <br>We did a pilot study of our <a data-href="CD8-EyeCupExpt" href="publications/regunfirstauthor/experiments/functionalassays/cd8-eyecupexpt.html" class="internal-link" target="_self" rel="noopener">CD8-EyeCupExpt</a><br>2 Mice Sodium Iodide treated.  Eyes and spleen collected day 3.<br>
+Regun dissected eyecup, CES isolated CD8 T cells<br>We had four experimental conditions:<br>
+Healthy eye + healthy cd8  (HH)<br>
+healthy eye + injured cd8   (HI)<br>
+injured eye + healthy cd8 (IH)<br>
+injured eye + injured cd8 (II)<br>Metric: Fluorescence microscopy - Stained for Live/Dead (link later), and phalloidin to observe cells.<br>Results:<br>
+<br>RPE death evident in HH
+<br>RPE death in HI 
+<br>Unclear if CD8 cell death is due to RPE cytotoxicity or unclear. 
+<br>Overall conclusions:<br>
+Worth repeating<br>Next step and changes: <br>
+<br>get fixable live/dead dye
+<br>determine cd8 culture conditions in <a data-href="cd" href="cd" class="internal-link" target="_self" rel="noopener">cd</a>
+<br><a href=".?query=tag:Coculture" class="tag" target="_blank" rel="noopener">#Coculture</a> <a href=".?query=tag:CD8BeadIsolation" class="tag" target="_blank" rel="noopener">#CD8BeadIsolation</a> <a href=".?query=tag:TCellCulture" class="tag" target="_blank" rel="noopener">#TCellCulture</a> <a href=".?query=tag:CytotoxicityAssay" class="tag" target="_blank" rel="noopener">#CytotoxicityAssay</a> <a href=".?query=tag:InVitro" class="tag" target="_blank" rel="noopener">#InVitro</a>]]></description><link>publications/regunfirstauthor/experiments/functionalassays/pilotstudy1.html</link><guid isPermaLink="false">Publications/RegunFirstAuthor/Experiments/FunctionalAssays/PilotStudy1.md</guid><pubDate>Thu, 12 Sep 2024 03:51:53 GMT</pubDate></item><item><title><![CDATA[Vitreal_Injections]]></title><description><![CDATA[ 
+ <br>Discussion with Dr. Cai on <a data-href="2024-09-10" href="calendarnotes/2024-09-10.html" class="internal-link" target="_self" rel="noopener">2024-09-10</a>]]></description><link>publications/regunfirstauthor/experiments/functionalassays/vitreal_injections.html</link><guid isPermaLink="false">Publications/RegunFirstAuthor/Experiments/FunctionalAssays/Vitreal_Injections.md</guid><pubDate>Thu, 12 Sep 2024 03:57:52 GMT</pubDate></item><item><title><![CDATA[RegunEtAlPaperStructure]]></title><description><![CDATA[ 
+ <br>This document will briefly recapitulate each figure of the paper, and globally track what has been completed and what is left to complete]]></description><link>publications/regunfirstauthor/regunetalpaperstructure.html</link><guid isPermaLink="false">Publications/RegunFirstAuthor/RegunEtAlPaperStructure.md</guid><pubDate>Thu, 12 Sep 2024 03:29:18 GMT</pubDate></item><item><title><![CDATA[CeLLama]]></title><description><![CDATA[ 
+ <br>i ran <a data-tooltip-position="top" aria-label="https://github.com/portrai-io/CELLama" rel="noopener" class="external-link" href="https://github.com/portrai-io/CELLama" target="_blank">ceLLama</a> and got <a data-tooltip-position="top" aria-label="file:///home/clayton/Desktop/scRNAseq/Images/CeLLamaOnMerged9.6.2024.pdf" rel="noopener" class="external-link" href="file://home/clayton/Desktop/scRNAseq/Images/CeLLamaOnMerged9.6.2024.pdf" target="_blank">This AI/LLM-driven labeling of clusters</a>]]></description><link>scrnaseq/ctrlvsnaiodide/cellama.html</link><guid isPermaLink="false">scRNAseq/CtrlVsNaIodide/CeLLama.md</guid><pubDate>Thu, 12 Sep 2024 02:48:49 GMT</pubDate></item><item><title><![CDATA[LearnObsidian]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="https://www.markdownguide.org/cheat-sheet/" rel="noopener" class="external-link" href="https://www.markdownguide.org/cheat-sheet/" target="_blank">markdown cheat sheet</a><br>tasks: - [ ] "taskname"]]></description><link>learnobsidian.html</link><guid isPermaLink="false">LearnObsidian.md</guid><pubDate>Thu, 12 Sep 2024 03:50:17 GMT</pubDate></item><item><title><![CDATA[TissueDigestion***REGUN PROTOCOL***]]></title><description><![CDATA[ 
+ ]]></description><link>tissuedigestion***regun-protocol***.html</link><guid isPermaLink="false">TissueDigestion***REGUN PROTOCOL***.md</guid><pubDate>Thu, 12 Sep 2024 04:09:18 GMT</pubDate></item></channel></rss>
