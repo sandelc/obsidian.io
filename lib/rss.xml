@@ -1,4 +1,112 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LabNotes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>LabNotes</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 15 Sep 2024 03:39:28 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 15 Sep 2024 03:39:26 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024-09-10]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LabNotes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>LabNotes</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 17 Sep 2024 17:25:09 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 17 Sep 2024 17:25:09 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024-09-15]]></title><description><![CDATA[ 
+ <br><a data-href="CD8CultureConditions" href="publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html" class="internal-link" target="_self" rel="noopener">CD8CultureConditions</a><br>
+Viability day 3:<br>Prepare for Monday- <br>
+<br>Put flow panel in separate box
+<br>Label tubes
+<br>Media for digestion
+<br>Set out enzyme aliquots for digestion
+<br>DMEM-10%FBS and DMEM-F12
+]]></description><link>calendarnotes/2024-09-15.html</link><guid isPermaLink="false">CalendarNotes/2024-09-15.md</guid><pubDate>Sun, 15 Sep 2024 15:03:08 GMT</pubDate></item><item><title><![CDATA[2024-09-16]]></title><description><![CDATA[ 
+ <br>
+<br>Collect eyes and spleen from 3 mice (6 eyes) treated with sodium iodide on <a data-href="2024-09-11" href="calendarnotes/2024-09-11.html" class="internal-link" target="_self" rel="noopener">2024-09-11</a> 
+<br><a data-tooltip-position="top" aria-label="TissueDigestion***REGUN PROTOCOL***" data-href="TissueDigestion***REGUN PROTOCOL***" href="methodsetc/tissuedigestion***regun-protocol***.html" class="internal-link" target="_self" rel="noopener">Stain and Digest</a> spleen+RPE for flow <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a>
+<br>Talk with Regun about <a data-tooltip-position="top" aria-label="LCNV Model" data-href="LCNV Model" href="methodsetc/lcnv-model.html" class="internal-link" target="_self" rel="noopener">LCNV</a> model/Planning for generating mice
+<br>spleen with full <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a><br>
+RPE with full <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a><br>titrate antibodies vs spleen needs plan<br>
+titrate antibodies vs rpe needs plan, needs info on how many cells<br>also use additional CD3 antibodies in single colors<br>Be at DMEI @ 10:30 Aurora flow. ]]></description><link>calendarnotes/2024-09-16.html</link><guid isPermaLink="false">CalendarNotes/2024-09-16.md</guid><pubDate>Mon, 16 Sep 2024 21:10:49 GMT</pubDate></item><item><title><![CDATA[2024-09-17]]></title><description><![CDATA[ 
+ <br>Did barrier facility orientation. ]]></description><link>calendarnotes/2024-09-17.html</link><guid isPermaLink="false">CalendarNotes/2024-09-17.md</guid><pubDate>Tue, 17 Sep 2024 16:06:49 GMT</pubDate></item><item><title><![CDATA[2024-09-20]]></title><description><![CDATA[ 
+ <br>
+<br>BMSB animal facility orientation 8-8:45am
+]]></description><link>calendarnotes/2024-09-20.html</link><guid isPermaLink="false">CalendarNotes/2024-09-20.md</guid><pubDate>Tue, 17 Sep 2024 16:07:08 GMT</pubDate></item><item><title><![CDATA[GIT instructions for a simple mind]]></title><description><![CDATA[ 
+ <br>find the folder that i ran git init on.....XD<br>
+for the obsidian its in /Export folder<br>using obsidian plugin, export my files to the export folder (select all)<br><br>if access is a problem, generate SSH key in terminal<br>ssh-keygen -t ed25519 -C "your_email@example.com"
+Copy<br>ssh-keygen -t rsa -C "any comment can be here"
+
+-t = The type of the key to generate 
+-C = comment to identify the key
+Copy<br>two keys are made, the private key and public key.<br>
+public key is in a .pub folder<br>
+that goes in github<br>have to add the new key to the ssh-agent<br>$ eval "$(ssh-agent -s)"
+&gt; Agent pid 59566
+Copy<br>ssh-add ~/.ssh/id_(whatever_numbers_here)<br>ssh-add -L <br>lists public key parameters of all identities currently represented by the ssh agent<br>ssh-add -l -E md5
+Copy<br>this will check if ssh lost my key. if it lists a checksum it has the key<br>setting the github url... either this<br>
+git remote set-url origin <a rel="noopener" class="external-link" href="https://github.com/username/repository.git" target="_blank">https://github.com/username/repository.git</a><br>
+or<br>
+git remote set-url origin <a data-tooltip-position="top" aria-label="mailto:sandelc@github.com" rel="noopener" class="external-link" href="mailto:sandelc@github.com" target="_blank">sandelc@github.com</a>:sandelc/obsidian.io.git<br>unsure the difference<br>was easier to use a personal access token from github and use https<br>
+git remote set-url origin https://@github.com/sandelc/obsidian.io.git<br>tried to git pull<br>
+then to a push after updating the folder and i got this<br>git push origin master<br>
+To <a rel="noopener" class="external-link" href="https://github.com/sandelc/obsidian.io.git" target="_blank">https://github.com/sandelc/obsidian.io.git</a><br>
+! [rejected]        master -&gt; master (non-fast-forward)<br>
+error: failed to push some refs to '<a rel="noopener" class="external-link" href="https://github.com/sandelc/obsidian.io.git'" target="_blank">https://github.com/sandelc/obsidian.io.git'</a><br>
+hint: Updates were rejected because the tip of your current branch is behind<br>
+hint: its remote counterpart. If you want to integrate the remote changes,<br>so i did this<br>
+git config.pull.rebase false<br>
+which i understand will make a 'merge'<br>then git pull origin master<br>
+then git push origin master worked<br><a rel="noopener" class="external-link" href="https://sandelc.github.io/obsidian.io/" target="_blank">https://sandelc.github.io/obsidian.io/</a> still live 9.15.2024]]></description><link>git/git-instructions-for-a-simple-mind.html</link><guid isPermaLink="false">Git/GIT instructions for a simple mind.md</guid><pubDate>Sun, 15 Sep 2024 15:00:21 GMT</pubDate></item><item><title><![CDATA[DevNotesP1]]></title><description><![CDATA[ 
+ <br>This panel was run on RPE and Regun observed DP CD4/CD8 cells. Quite a lot.  <br>Assumption is that these cells are an artifact, but we need to make sure they are not occurring in the spleen.  If no DP cells are present in the spleen then the panel should be valid for the RPE also.<br>Same case with DN<br>CD3 clone x? had issues ]]></description><link>methodsetc/flow/devnotesp1.html</link><guid isPermaLink="false">MethodsEtc/Flow/DevNotesP1.md</guid><pubDate>Tue, 17 Sep 2024 16:07:44 GMT</pubDate></item><item><title><![CDATA[QC]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="https://www.embopress.org/doi/full/10.15252/msb.20188746" rel="noopener" class="external-link" href="https://www.embopress.org/doi/full/10.15252/msb.20188746" target="_blank">BestPracticesTutorialPublication</a><br>
+notes follow - <br>raw data - CellRanger, indrops, zUMIs do this.<br>
+Assigning reads to cell barcodes --- "Demultiplexing"<br>
+gene alignment, quantifiation<br>
+yields read/count matrix of BARCODES vs genes.<br>
+BC some barcodes may be tagged on more than one cell (doublet)<br>
+or no cells (empty droplet, empty well)<br>QC Metrics - (coviariates)<br>
+<br>Counts per barcode
+<br>Genes per barcode
+<br>%mt genes per barcode<br>
+<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/26887813/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/26887813/" target="_blank">classification of low quality cells from scrnaseq</a>
+<br>Other QC Metrics<br>
+<br>Read Quality - Filter on reads with over 30 in Q30 scores
+<br>Datasets with low Q30 scores in barcode read have poor cell assignment
+
+<br>poor Q30 scores in the RNA read will not be able to be aligned
+<br>Typical values 60-70% throughout, with highest in the barcode read
+
+
+<br>Alignment QC - 40% or higher exonic reads is good
+<br>Direct calculation ? - the % of reads that are in the dataset after count matrix is made. Can estimate the cell input (hemacytometer counts, flow counts) If we get around the same number of cells in a count matrix, amazing. 
+<br>QC metrics must be considered together, not in isolation. EG high mt counts may suggest involvement in respiration.  Cells/barcodes with low counts may be quiescent cells, high counts may be physically large cells.<br>
+Then how to make thresholding decisions?<br>
+Be permissive.<br>
+Consider whether a threshold removes more than the expected # of cells<br>Datasets with mixed cell populations may have multiple peaks in QC metrics<br>
+<br>Addressing QC parameters in an analysis workflow changes the output of downstream analysis methods ie pathways, clustering etc. 
+<br>Knowing whether the QC filters/methods applied are adequate is impossible to know, but can be inferred by performance of downstream analysis methods. 
+
+<br>Therefore, recursive analysis is required.
+
+
+<br><a data-tooltip-position="top" aria-label="https://www.nature.com/articles/s41586-018-0394-6" rel="noopener" class="external-link" href="https://www.nature.com/articles/s41586-018-0394-6" target="_blank">Determine QC metrics independently across samples as in this example</a><br><br>the simple approach is de-select cells that have unusually high gene counts.  In practice what does that mean i'm not sure.<br><a data-tooltip-position="top" aria-label="https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31286-0" rel="noopener" class="external-link" href="https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31286-0" target="_blank">DoubletDecon</a> is one doublet detection method<br>
+<a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6625319/" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6625319/" target="_blank">Scrublet</a><br>
+<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/30954475/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/30954475/" target="_blank">DoubletFinder</a><br><br><a data-tooltip-position="top" aria-label="https://www.biorxiv.org/content/10.1101/303727v2" rel="noopener" class="external-link" href="https://www.biorxiv.org/content/10.1101/303727v2" target="_blank">soupx</a><br>
+also (<a rel="noopener" class="external-link" href="https://academic.oup.com/gigascience/article/9/12/giaa151/6049831" target="_blank">https://academic.oup.com/gigascience/article/9/12/giaa151/6049831</a>)<br>
+removes ambient rna by analyzing empty droplets?????<br><br>The wetlab process has a lot of room for error.  Cell digestion, isolation, sorting, capture/bead, RT, sequencing.<br>
+Count depth can vary greatly simply due to these processes, even when processed the same.  Therefore identical cells could potentially look very different.<br>
+Normalization is required to address this<br><br>a simple way is to scale the gene expression per cell by the total library size<br>
+CPM normalization. or scaling by the median count depth per cell<br>
+the assumption here is that all cells initially had equal RNA and the only difference in RELATIVE amounts is due to sampling error.<br>
+Downsampling has the same assumption. It randomly samples reads/counts so that all cells have a certain # of counts or less. (deletes data)<br>
+These approaches aren't great for mixed populations.  Maybe they are good for very uniform populations<br>
+<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/27122128/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/27122128/" target="_blank">this pooling method</a>  (scran) does a linear regression of genes after pooling all the cells, to estimate a size factor. and available <a data-tooltip-position="top" aria-label="https://bioconductor.org/packages/release/bioc/html/scran.html" rel="noopener" class="external-link" href="https://bioconductor.org/packages/release/bioc/html/scran.html" target="_blank">here?</a><br>
+Scran outperforms other normalization methods <a data-tooltip-position="top" aria-label="https://doi.org/10.1038/s41592-018-0254-1" rel="noopener" class="external-link" href="https://doi.org/10.1038/s41592-018-0254-1" target="_blank">one example in batch correction</a> and <a data-tooltip-position="top" aria-label="https://www.biorxiv.org/content/10.1101/583013v3" rel="noopener" class="external-link" href="https://www.biorxiv.org/content/10.1101/583013v3" target="_blank">DE analysis</a><br>Normalization with bulk methods was used at first but zero-inflated sc Data required new approaches<br>
+<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/27122128/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/27122128/" target="_blank">one example</a> and a <a data-tooltip-position="top" aria-label="https://www.nature.com/articles/nmeth.4292" rel="noopener" class="external-link" href="https://www.nature.com/articles/nmeth.4292" target="_blank">second one</a> <a rel="noopener" class="external-link" href="https://doi.org/10.1038/nmeth.4292" target="_blank">https://doi.org/10.1038/nmeth.4292</a><br><br>Can account for more complex unwanted variation.<br>
+examples from <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/29513653/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/29513653/" target="_blank">Satijas? group</a><br><br>All these normalizations above apply to cells...  Normalization could be applied to genes.<br>
+The central question is - should all genes be weighted equally?<br>
+<br>put the way the paper i'm following today  - "is the magnitude of gene expression informative for the importance of the gene"<br>
+can evaluate normalization tools with <a data-tooltip-position="top" aria-label="https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30080-8" rel="noopener" class="external-link" href="https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30080-8" target="_blank">scone</a>
+<br><br>
+<br>3 important effects
+
+<br>Distance between log-txformed expression values become logFC, which is what we are typically trained to evaluate
+<br>log-txformation mitigates the mean-variance relationship in single cell data <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/24056876/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/24056876/" target="_blank">by reducing technical noise?</a>
+<br>reduces the skewness of the data, so that assumptions of normality can be (sorta) met for downstream tools
+
+
+<br>SCRNASEQ is not lognormal data <a data-tooltip-position="top" aria-label="https://academic.oup.com/bioinformatics/article/33/21/3486/3952669" rel="noopener" class="external-link" href="https://academic.oup.com/bioinformatics/article/33/21/3486/3952669" target="_blank">powsimrPaperDiscusses?</a>
+<br>Log transformation <a data-tooltip-position="top" aria-label="https://www.biorxiv.org/content/10.1101/404962v1" rel="noopener" class="external-link" href="https://www.biorxiv.org/content/10.1101/404962v1" target="_blank">can introduce error</a>
+]]></description><link>notes/scrnaseqnotes/generalconcepts/qc.html</link><guid isPermaLink="false">Notes/scRNAseqNotes/GeneralConcepts/QC.md</guid><pubDate>Mon, 16 Sep 2024 03:17:19 GMT</pubDate></item><item><title><![CDATA[CD3 Titrations]]></title><description><![CDATA[ 
+ <br>CD3 was <a data-tooltip-position="top" aria-label="2024-09-16" data-href="2024-09-16" href="calendarnotes/2024-09-16.html" class="internal-link" target="_self" rel="noopener">Titrated on RPE on 9.16.2024 on NaIodide eyes</a><br>
+Images from flow analysis are found <a data-tooltip-position="top" aria-label="CD3 Titration RPE.canvas" data-href="CD3 Titration RPE.canvas" href="methodsetc/flow/cd3-titration-rpe.html" class="internal-link" target="_self" rel="noopener">CD3 Titration RPE|here, made with EasyFlowQ</a>]]></description><link>resultslinks/cd3-titrations.html</link><guid isPermaLink="false">ResultsLinks/CD3 Titrations.md</guid><pubDate>Tue, 17 Sep 2024 17:11:49 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
+ ]]></description><link>untitled.html</link><guid isPermaLink="false">Untitled.md</guid><pubDate>Tue, 17 Sep 2024 17:03:01 GMT</pubDate></item><item><title><![CDATA[2024-09-10]]></title><description><![CDATA[ 
  <br>Flat mounted and stained 4 eye cups from 1 sodium iodide mouse 1 healthy mouse from <a data-href="PilotStudy1" href="publications/regunfirstauthor/experiments/functionalassays/pilotstudy1.html" class="internal-link" target="_self" rel="noopener">PilotStudy1</a><br>
 <br>Discussed Vitreal Injection Assay.  Began planning for <a data-href="Vitreal_Injections" href="publications/regunfirstauthor/experiments/functionalassays/vitreal_injections.html" class="internal-link" target="_self" rel="noopener">Vitreal_Injections</a>
 
@@ -45,15 +153,7 @@ Metric: Viability on <a data-href="2024-09-12" href="calendarnotes/2024-09-12.ht
  <br><a data-href="CD8CultureConditions" href="publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html" class="internal-link" target="_self" rel="noopener">CD8CultureConditions</a><br>
 Viability Day 1:“fin.csv” could not be found.]]></description><link>calendarnotes/2024-09-13.html</link><guid isPermaLink="false">CalendarNotes/2024-09-13.md</guid><pubDate>Sat, 14 Sep 2024 16:00:04 GMT</pubDate></item><item><title><![CDATA[2024-09-14]]></title><description><![CDATA[ 
  <br><a data-href="CD8CultureConditions" href="publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html" class="internal-link" target="_self" rel="noopener">CD8CultureConditions</a><br>
-Viability day 2]]></description><link>calendarnotes/2024-09-14.html</link><guid isPermaLink="false">CalendarNotes/2024-09-14.md</guid><pubDate>Thu, 12 Sep 2024 04:08:10 GMT</pubDate></item><item><title><![CDATA[2024-09-15]]></title><description><![CDATA[ 
- <br><a data-href="CD8CultureConditions" href="publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html" class="internal-link" target="_self" rel="noopener">CD8CultureConditions</a><br>
-Viability day 3:]]></description><link>calendarnotes/2024-09-15.html</link><guid isPermaLink="false">CalendarNotes/2024-09-15.md</guid><pubDate>Thu, 12 Sep 2024 04:08:35 GMT</pubDate></item><item><title><![CDATA[2024-09-16]]></title><description><![CDATA[ 
- <br>-[ ] Collect eyes and spleen from 3 mice (6 eyes) treated with sodium iodide on <a data-href="2024-09-11" href="calendarnotes/2024-09-11.html" class="internal-link" target="_self" rel="noopener">2024-09-11</a> <br>
-<br><a data-tooltip-position="top" aria-label="TissueDigestion***REGUN PROTOCOL***" data-href="TissueDigestion***REGUN PROTOCOL***" href="methodsetc/tissuedigestion***regun-protocol***.html" class="internal-link" target="_self" rel="noopener">Stain and Digest</a> spleen+RPE for flow <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a>
-<br>Talk with Regun about <a data-tooltip-position="top" aria-label="LCNV Model" data-href="LCNV Model" href="methodsetc/lcnv-model.html" class="internal-link" target="_self" rel="noopener">LCNV</a> model/Planning for generating mice
-<br>spleen with full <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a><br>
-RPE with full <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a><br>titrate antibodies vs spleen needs plan<br>
-titrate antibodies vs rpe needs plan, needs info on how many cells<br>also use additional CD3 antibodies in single colors<br>Be at DMEI @ 10:30 Aurora flow. ]]></description><link>calendarnotes/2024-09-16.html</link><guid isPermaLink="false">CalendarNotes/2024-09-16.md</guid><pubDate>Thu, 12 Sep 2024 20:36:47 GMT</pubDate></item><item><title><![CDATA[CD8 mem Flow Panel]]></title><description><![CDATA[ 
+Viability day 2]]></description><link>calendarnotes/2024-09-14.html</link><guid isPermaLink="false">CalendarNotes/2024-09-14.md</guid><pubDate>Thu, 12 Sep 2024 04:08:10 GMT</pubDate></item><item><title><![CDATA[CD8 mem Flow Panel]]></title><description><![CDATA[ 
  <br><a data-href="DevNotesP1" href="methodsetc/flow/devnotesp1.html" class="internal-link" target="_self" rel="noopener">DevNotesP1</a><br>CD3 BV421<br>
 CD4 AF488<br>
 CD8 PECy7<br>
@@ -63,8 +163,7 @@ CD44 SB702<br>
 CD62L APC<br>
 Ly6G BV605<br>
 CD49a PE<br>
-CD45 AF700<br>Via - Near Infrared]]></description><link>methodsetc/flow/cd8-mem-flow-panel.html</link><guid isPermaLink="false">MethodsEtc/Flow/CD8 mem Flow Panel.md</guid><pubDate>Wed, 11 Sep 2024 20:34:08 GMT</pubDate></item><item><title><![CDATA[DevNotesP1]]></title><description><![CDATA[ 
- <br>This panel was run on RPE and Regun observed DP CD4/CD8 cells. Quite a lot.  <br>Assumption is that these cells are an artifact, but we need to make sure they are not occurring in the spleen.  If no DP cells are present in the spleen then the panel should be valid for the RPE also.<br>Same case with DN<br>CD3 clone x? had issues on ]]></description><link>methodsetc/flow/devnotesp1.html</link><guid isPermaLink="false">MethodsEtc/Flow/DevNotesP1.md</guid><pubDate>Wed, 11 Sep 2024 20:36:21 GMT</pubDate></item><item><title><![CDATA[CD8TcellBeadIsolation]]></title><description><![CDATA[ 
+CD45 AF700<br>Via - Near Infrared]]></description><link>methodsetc/flow/cd8-mem-flow-panel.html</link><guid isPermaLink="false">MethodsEtc/Flow/CD8 mem Flow Panel.md</guid><pubDate>Wed, 11 Sep 2024 20:34:08 GMT</pubDate></item><item><title><![CDATA[CD8TcellBeadIsolation]]></title><description><![CDATA[ 
  ]]></description><link>methodsetc/cd8tcellbeadisolation.html</link><guid isPermaLink="false">MethodsEtc/CD8TcellBeadIsolation.md</guid><pubDate>Thu, 12 Sep 2024 03:54:10 GMT</pubDate></item><item><title><![CDATA[LCNV Model]]></title><description><![CDATA[ 
  <br>
 <br>240 watts 240ms laser
