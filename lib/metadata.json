@@ -1,6 +1,6 @@
 {
   "vaultName": "LabNotes",
-  "lastExport": 1726593909224,
+  "lastExport": 1726595374889,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -16,9 +16,9 @@
     "CalendarNotes/2024-09-17.md",
     "CalendarNotes/2024-09-20.md",
     "Git/GIT instructions for a simple mind.md",
-    "MethodsEtc/Flow/FlowDataFiles/CD3 RPE 1ul.webp",
-    "MethodsEtc/Flow/FlowDataFiles/CD3 RPE 2ul.webp",
-    "MethodsEtc/Flow/FlowDataFiles/CD3 RPE 3ul.webp",
+    "MethodsEtc/Flow/CD3 RPE 1ul.webp",
+    "MethodsEtc/Flow/CD3 RPE 2ul.webp",
+    "MethodsEtc/Flow/CD3 RPE 3ul.webp",
     "MethodsEtc/Flow/CD3 Titration RPE.canvas",
     "MethodsEtc/Flow/CD8 mem Flow Panel.md",
     "MethodsEtc/Flow/DevNotesP1.md",
@@ -36,6 +36,7 @@
     "ResultsLinks/CD3 Titrations.md",
     "scRNAseq/CtrlVsNaIodide/CeLLama.md",
     "scRNAseq/CtrlVsNaIodide/CeLLamaOnMerged9.6.2024.pdf",
+    "CD3 Titration RPE 1.canvas",
     "LearnObsidian.md",
     "RPE 1ul 9.16.2024.tif",
     "RPE 2ul 9.16.2024.tif",
@@ -71,9 +72,9 @@
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
-    "lib/media/cd3-rpe-3ul.webp",
-    "lib/media/cd3-rpe-1ul.webp",
-    "lib/media/cd3-rpe-2ul.webp"
+    "methodsetc/flow/flowdatafiles/cd3-rpe-1ul.webp",
+    "methodsetc/flow/flowdatafiles/cd3-rpe-2ul.webp",
+    "methodsetc/flow/flowdatafiles/cd3-rpe-3ul.webp"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -109,225 +110,183 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1726593909224,
-      "sourceSize": 23137,
+      "modifiedTime": 1726595374889,
+      "sourceSize": 22822,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1726593909224,
-      "sourceSize": 2246,
+      "modifiedTime": 1726595374889,
+      "sourceSize": 2297,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 3162,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726595374889,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "CalendarNotes/2024-09-10.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 234,
-      "exportedPath": "calendarnotes/2024-09-10.html",
-      "dependencies": []
-    },
-    "CalendarNotes/2024-09-11.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 254,
-      "exportedPath": "calendarnotes/2024-09-11.html",
-      "dependencies": []
-    },
-    "CalendarNotes/2024-09-12.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 889,
-      "exportedPath": "calendarnotes/2024-09-12.html",
-      "dependencies": []
-    },
-    "CalendarNotes/2024-09-13.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 53,
-      "exportedPath": "calendarnotes/2024-09-13.html",
-      "dependencies": []
-    },
-    "CalendarNotes/2024-09-14.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 40,
-      "exportedPath": "calendarnotes/2024-09-14.html",
-      "dependencies": []
-    },
-    "CalendarNotes/2024-09-15.md": {
-      "modifiedTime": 1726593161430,
-      "sourceSize": 223,
-      "exportedPath": "calendarnotes/2024-09-15.html",
-      "dependencies": []
-    },
-    "CalendarNotes/2024-09-16.md": {
-      "modifiedTime": 1726593161430,
-      "sourceSize": 573,
-      "exportedPath": "calendarnotes/2024-09-16.html",
       "dependencies": []
     },
     "MethodsEtc/Flow/CD8 mem Flow Panel.md": {
@@ -342,200 +301,252 @@
       "exportedPath": "methodsetc/flow/devnotesp1.html",
       "dependencies": []
     },
-    "MethodsEtc/CD8TcellBeadIsolation.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 0,
-      "exportedPath": "methodsetc/cd8tcellbeadisolation.html",
-      "dependencies": []
-    },
-    "MethodsEtc/LCNV Model.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 95,
-      "exportedPath": "methodsetc/lcnv-model.html",
-      "dependencies": []
-    },
-    "MethodsEtc/ProcedureMetrics.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 116,
-      "exportedPath": "methodsetc/proceduremetrics.html",
-      "dependencies": []
-    },
-    "MethodsEtc/TissueDigestion***REGUN PROTOCOL***.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 776,
-      "exportedPath": "methodsetc/tissuedigestion***regun-protocol***.html",
-      "dependencies": []
-    },
-    "Notes/scRNAseqNotes/imputation/Imputation in single cell.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 635,
-      "exportedPath": "notes/scrnaseqnotes/imputation/imputation-in-single-cell.html",
-      "dependencies": []
-    },
-    "Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8-EyeCupExpt.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 116,
-      "exportedPath": "publications/regunfirstauthor/experiments/functionalassays/cd8-eyecupexpt.html",
-      "dependencies": []
-    },
-    "Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8CultureConditions.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 518,
-      "exportedPath": "publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html",
-      "dependencies": []
-    },
-    "Publications/RegunFirstAuthor/Experiments/FunctionalAssays/PilotStudy1.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 777,
-      "exportedPath": "publications/regunfirstauthor/experiments/functionalassays/pilotstudy1.html",
-      "dependencies": []
-    },
-    "Publications/RegunFirstAuthor/Experiments/FunctionalAssays/Vitreal_Injections.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 41,
-      "exportedPath": "publications/regunfirstauthor/experiments/functionalassays/vitreal_injections.html",
-      "dependencies": []
-    },
-    "Publications/RegunFirstAuthor/RegunEtAlPaperStructure.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 137,
-      "exportedPath": "publications/regunfirstauthor/regunetalpaperstructure.html",
-      "dependencies": []
-    },
-    "scRNAseq/CtrlVsNaIodide/CeLLama.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 317,
-      "exportedPath": "scrnaseq/ctrlvsnaiodide/cellama.html",
-      "dependencies": []
-    },
-    "scRNAseq/CtrlVsNaIodide/CeLLamaOnMerged9.6.2024.pdf": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 355592,
-      "exportedPath": "scrnaseq/ctrlvsnaiodide/cellamaonmerged9.6.2024.pdf",
-      "dependencies": []
-    },
-    "LearnObsidian.md": {
-      "modifiedTime": 1726371566831,
-      "sourceSize": 94,
-      "exportedPath": "learnobsidian.html",
-      "dependencies": []
-    },
-    "CalendarNotes/2024-09-17.md": {
-      "modifiedTime": 1726593161430,
-      "sourceSize": 34,
-      "exportedPath": "calendarnotes/2024-09-17.html",
-      "dependencies": []
-    },
-    "CalendarNotes/2024-09-20.md": {
-      "modifiedTime": 1726593161430,
-      "sourceSize": 47,
-      "exportedPath": "calendarnotes/2024-09-20.html",
-      "dependencies": []
-    },
-    "Git/GIT instructions for a simple mind.md": {
-      "modifiedTime": 1726593161430,
-      "sourceSize": 1869,
-      "exportedPath": "git/git-instructions-for-a-simple-mind.html",
-      "dependencies": []
-    },
     "MethodsEtc/Flow/CD3 Titration RPE.canvas": {
-      "modifiedTime": 1726593909224,
-      "sourceSize": 636,
+      "modifiedTime": 1726595374889,
+      "sourceSize": 594,
       "exportedPath": "methodsetc/flow/cd3-titration-rpe.html",
       "dependencies": [
-        "methodsetc/flow/flowdatafiles/cd3-rpe-1ul.webp",
-        "methodsetc/flow/flowdatafiles/cd3-rpe-2ul.webp",
-        "methodsetc/flow/flowdatafiles/cd3-rpe-3ul.webp"
+        "methodsetc/flow/cd3-rpe-1ul.webp",
+        "methodsetc/flow/cd3-rpe-2ul.webp",
+        "methodsetc/flow/cd3-rpe-3ul.webp"
       ]
     },
-    "Notes/scRNAseqNotes/GeneralConcepts/QC.md": {
-      "modifiedTime": 1726593161430,
-      "sourceSize": 5411,
-      "exportedPath": "notes/scrnaseqnotes/generalconcepts/qc.html",
-      "dependencies": []
-    },
-    "ResultsLinks/CD3 Titrations.md": {
-      "modifiedTime": 1726593161430,
-      "sourceSize": 178,
-      "exportedPath": "resultslinks/cd3-titrations.html",
-      "dependencies": []
-    },
-    "RPE 1ul 9.16.2024.tif": {
-      "modifiedTime": 1726593161430,
-      "sourceSize": 63377694,
-      "exportedPath": "rpe-1ul-9.16.2024.tif",
-      "dependencies": []
-    },
-    "RPE 2ul 9.16.2024.tif": {
-      "modifiedTime": 1726593161430,
-      "sourceSize": 63377694,
-      "exportedPath": "rpe-2ul-9.16.2024.tif",
-      "dependencies": []
-    },
-    "RPE 3ul 9.16.2024.tif": {
-      "modifiedTime": 1726593161430,
-      "sourceSize": 63377694,
-      "exportedPath": "rpe-3ul-9.16.2024.tif",
-      "dependencies": []
-    },
-    "Untitled.md": {
-      "modifiedTime": 1726593161430,
-      "sourceSize": 0,
-      "exportedPath": "untitled.html",
-      "dependencies": []
-    },
-    "lib/media/cd3-rpe-3ul.webp": {
-      "modifiedTime": 1726593761741,
-      "sourceSize": 700154,
-      "exportedPath": "lib/media/cd3-rpe-3ul.webp",
-      "dependencies": []
-    },
-    "lib/media/cd3-rpe-1ul.webp": {
-      "modifiedTime": 1726593761741,
-      "sourceSize": 761222,
-      "exportedPath": "lib/media/cd3-rpe-1ul.webp",
-      "dependencies": []
-    },
-    "lib/media/cd3-rpe-2ul.webp": {
-      "modifiedTime": 1726593761741,
-      "sourceSize": 741904,
-      "exportedPath": "lib/media/cd3-rpe-2ul.webp",
-      "dependencies": []
-    },
-    "MethodsEtc/Flow/FlowDataFiles/CD3 RPE 1ul.webp": {
-      "modifiedTime": 1726593909224,
-      "sourceSize": 761222,
-      "exportedPath": "methodsetc/flow/flowdatafiles/cd3-rpe-1ul.webp",
-      "dependencies": []
-    },
-    "MethodsEtc/Flow/FlowDataFiles/CD3 RPE 2ul.webp": {
-      "modifiedTime": 1726593909224,
-      "sourceSize": 741904,
-      "exportedPath": "methodsetc/flow/flowdatafiles/cd3-rpe-2ul.webp",
-      "dependencies": []
-    },
-    "MethodsEtc/Flow/FlowDataFiles/CD3 RPE 3ul.webp": {
-      "modifiedTime": 1726593909224,
-      "sourceSize": 700154,
-      "exportedPath": "methodsetc/flow/flowdatafiles/cd3-rpe-3ul.webp",
-      "dependencies": []
-    },
     "methodsetc/flow/flowdatafiles/cd3-rpe-1ul.webp": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726594868232,
       "sourceSize": 761222,
       "exportedPath": "methodsetc/flow/flowdatafiles/cd3-rpe-1ul.webp",
       "dependencies": []
     },
     "methodsetc/flow/flowdatafiles/cd3-rpe-2ul.webp": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726594868232,
       "sourceSize": 741904,
       "exportedPath": "methodsetc/flow/flowdatafiles/cd3-rpe-2ul.webp",
       "dependencies": []
     },
     "methodsetc/flow/flowdatafiles/cd3-rpe-3ul.webp": {
-      "modifiedTime": 1726593909224,
+      "modifiedTime": 1726594868232,
       "sourceSize": 700154,
       "exportedPath": "methodsetc/flow/flowdatafiles/cd3-rpe-3ul.webp",
+      "dependencies": []
+    },
+    "CalendarNotes/2024-09-10.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 234,
+      "exportedPath": "calendarnotes/2024-09-10.html",
+      "dependencies": []
+    },
+    "CalendarNotes/2024-09-11.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 254,
+      "exportedPath": "calendarnotes/2024-09-11.html",
+      "dependencies": []
+    },
+    "CalendarNotes/2024-09-12.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 889,
+      "exportedPath": "calendarnotes/2024-09-12.html",
+      "dependencies": []
+    },
+    "CalendarNotes/2024-09-13.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 53,
+      "exportedPath": "calendarnotes/2024-09-13.html",
+      "dependencies": []
+    },
+    "CalendarNotes/2024-09-14.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 40,
+      "exportedPath": "calendarnotes/2024-09-14.html",
+      "dependencies": []
+    },
+    "CalendarNotes/2024-09-15.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 223,
+      "exportedPath": "calendarnotes/2024-09-15.html",
+      "dependencies": []
+    },
+    "CalendarNotes/2024-09-16.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 573,
+      "exportedPath": "calendarnotes/2024-09-16.html",
+      "dependencies": []
+    },
+    "CalendarNotes/2024-09-17.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 34,
+      "exportedPath": "calendarnotes/2024-09-17.html",
+      "dependencies": []
+    },
+    "CalendarNotes/2024-09-20.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 47,
+      "exportedPath": "calendarnotes/2024-09-20.html",
+      "dependencies": []
+    },
+    "Git/GIT instructions for a simple mind.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 1869,
+      "exportedPath": "git/git-instructions-for-a-simple-mind.html",
+      "dependencies": []
+    },
+    "MethodsEtc/CD8TcellBeadIsolation.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 0,
+      "exportedPath": "methodsetc/cd8tcellbeadisolation.html",
+      "dependencies": []
+    },
+    "MethodsEtc/LCNV Model.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 95,
+      "exportedPath": "methodsetc/lcnv-model.html",
+      "dependencies": []
+    },
+    "MethodsEtc/ProcedureMetrics.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 116,
+      "exportedPath": "methodsetc/proceduremetrics.html",
+      "dependencies": []
+    },
+    "MethodsEtc/TissueDigestion***REGUN PROTOCOL***.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 776,
+      "exportedPath": "methodsetc/tissuedigestion***regun-protocol***.html",
+      "dependencies": []
+    },
+    "Notes/scRNAseqNotes/GeneralConcepts/QC.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 5411,
+      "exportedPath": "notes/scrnaseqnotes/generalconcepts/qc.html",
+      "dependencies": []
+    },
+    "Notes/scRNAseqNotes/imputation/Imputation in single cell.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 635,
+      "exportedPath": "notes/scrnaseqnotes/imputation/imputation-in-single-cell.html",
+      "dependencies": []
+    },
+    "Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8-EyeCupExpt.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 116,
+      "exportedPath": "publications/regunfirstauthor/experiments/functionalassays/cd8-eyecupexpt.html",
+      "dependencies": []
+    },
+    "Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8CultureConditions.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 518,
+      "exportedPath": "publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html",
+      "dependencies": []
+    },
+    "Publications/RegunFirstAuthor/Experiments/FunctionalAssays/PilotStudy1.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 777,
+      "exportedPath": "publications/regunfirstauthor/experiments/functionalassays/pilotstudy1.html",
+      "dependencies": []
+    },
+    "Publications/RegunFirstAuthor/Experiments/FunctionalAssays/Vitreal_Injections.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 41,
+      "exportedPath": "publications/regunfirstauthor/experiments/functionalassays/vitreal_injections.html",
+      "dependencies": []
+    },
+    "Publications/RegunFirstAuthor/RegunEtAlPaperStructure.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 137,
+      "exportedPath": "publications/regunfirstauthor/regunetalpaperstructure.html",
+      "dependencies": []
+    },
+    "ResultsLinks/CD3 Titrations.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 178,
+      "exportedPath": "resultslinks/cd3-titrations.html",
+      "dependencies": []
+    },
+    "scRNAseq/CtrlVsNaIodide/CeLLama.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 317,
+      "exportedPath": "scrnaseq/ctrlvsnaiodide/cellama.html",
+      "dependencies": []
+    },
+    "scRNAseq/CtrlVsNaIodide/CeLLamaOnMerged9.6.2024.pdf": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 355592,
+      "exportedPath": "scrnaseq/ctrlvsnaiodide/cellamaonmerged9.6.2024.pdf",
+      "dependencies": []
+    },
+    "LearnObsidian.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 94,
+      "exportedPath": "learnobsidian.html",
+      "dependencies": []
+    },
+    "Untitled.md": {
+      "modifiedTime": 1726594721396,
+      "sourceSize": 0,
+      "exportedPath": "untitled.html",
+      "dependencies": []
+    },
+    "CD3 Titration RPE 1.canvas": {
+      "modifiedTime": 1726595374889,
+      "sourceSize": 594,
+      "exportedPath": "cd3-titration-rpe-1.html",
+      "dependencies": [
+        "methodsetc/flow/cd3-rpe-1ul.webp",
+        "methodsetc/flow/cd3-rpe-2ul.webp",
+        "methodsetc/flow/cd3-rpe-3ul.webp"
+      ]
+    },
+    "MethodsEtc/Flow/CD3 RPE 1ul.webp": {
+      "modifiedTime": 1726595374889,
+      "sourceSize": 761222,
+      "exportedPath": "methodsetc/flow/cd3-rpe-1ul.webp",
+      "dependencies": []
+    },
+    "MethodsEtc/Flow/CD3 RPE 2ul.webp": {
+      "modifiedTime": 1726595374889,
+      "sourceSize": 741904,
+      "exportedPath": "methodsetc/flow/cd3-rpe-2ul.webp",
+      "dependencies": []
+    },
+    "MethodsEtc/Flow/CD3 RPE 3ul.webp": {
+      "modifiedTime": 1726595374889,
+      "sourceSize": 700154,
+      "exportedPath": "methodsetc/flow/cd3-rpe-3ul.webp",
+      "dependencies": []
+    },
+    "RPE 1ul 9.16.2024.tif": {
+      "modifiedTime": 1726595374889,
+      "sourceSize": 63377694,
+      "exportedPath": "rpe-1ul-9.16.2024.tif",
+      "dependencies": []
+    },
+    "RPE 2ul 9.16.2024.tif": {
+      "modifiedTime": 1726595374889,
+      "sourceSize": 63377694,
+      "exportedPath": "rpe-2ul-9.16.2024.tif",
+      "dependencies": []
+    },
+    "RPE 3ul 9.16.2024.tif": {
+      "modifiedTime": 1726595374889,
+      "sourceSize": 63377694,
+      "exportedPath": "rpe-3ul-9.16.2024.tif",
+      "dependencies": []
+    },
+    "methodsetc/flow/cd3-rpe-1ul.webp": {
+      "modifiedTime": 1726595374889,
+      "sourceSize": 761222,
+      "exportedPath": "methodsetc/flow/cd3-rpe-1ul.webp",
+      "dependencies": []
+    },
+    "methodsetc/flow/cd3-rpe-2ul.webp": {
+      "modifiedTime": 1726595374889,
+      "sourceSize": 741904,
+      "exportedPath": "methodsetc/flow/cd3-rpe-2ul.webp",
+      "dependencies": []
+    },
+    "methodsetc/flow/cd3-rpe-3ul.webp": {
+      "modifiedTime": 1726595374889,
+      "sourceSize": 700154,
+      "exportedPath": "methodsetc/flow/cd3-rpe-3ul.webp",
       "dependencies": []
     }
   }
