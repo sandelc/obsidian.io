@@ -1,4 +1,249 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LabNotes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>LabNotes</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 18 Sep 2024 02:43:17 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 18 Sep 2024 02:43:16 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024-09-16]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LabNotes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>LabNotes</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 23 Sep 2024 01:34:51 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 23 Sep 2024 01:34:50 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024-09-18]]></title><description><![CDATA[ 
+ <br><br>Phenotyping experiment - Goal to show a reproducible phenotype in the <a data-tooltip-position="top" aria-label="MethodsEtc/LCNV Model" data-href="MethodsEtc/LCNV Model" href="methodsetc/lcnv-model.html" class="internal-link" target="_self" rel="noopener">LCNV Model</a><br>
+<br>Primary readout - Flat mount to measure lesion size
+<br>4 mice in 1 laser group - Eyes taken at D7
+<br>4 mice in 2 laser group - Eyes taken at D14
+<br>Young mice (to be purchased soon) with the rationale of that is routine for the field.  Discussion as to the relevance to AMD (being a disease of older people)
+<br>Time Course Experiment - Goal is to determine what timepoint has the most immune cell population in the eye after inducing a memory/recall response with laser burn.<br>
+<br>Readout - <a data-tooltip-position="top" aria-label="MethodsEtc/Flow/CD8 mem Flow Panel" data-href="MethodsEtc/Flow/CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a>. Quantify the number of CD8 memory cells in the eye after injury.
+<br>Time points relative to the laser burn: Day 1, 4, 7
+<br>2 Groups - 1 laser burn events (1L) and 2 laser burn events (2L)
+]]></description><link>calendarnotes/2024-09-18.html</link><guid isPermaLink="false">CalendarNotes/2024-09-18.md</guid><pubDate>Wed, 18 Sep 2024 20:48:18 GMT</pubDate></item><item><title><![CDATA[2024-09-19]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-09-19.html</link><guid isPermaLink="false">CalendarNotes/2024-09-19.md</guid><pubDate>Fri, 20 Sep 2024 01:12:11 GMT</pubDate></item><item><title><![CDATA[2024-09-20]]></title><description><![CDATA[ 
+ <br>
+<br>BMSB animal facility orientation 8-8:45am
+<br><a data-tooltip-position="top" aria-label="Results/E1_TimeCourseLaserLCNV" data-href="Results/E1_TimeCourseLaserLCNV" href="results/e1_timecourselaserlcnv.html" class="internal-link" target="_self" rel="noopener">E1_TimeCourseLaserLCNV</a> Flow Day 1 first LB event
+<br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup" data-href="Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup" href="experiments/lcnvseriese1toe4/experiment3_e3_eyecup.html" class="internal-link" target="_self" rel="noopener">Experiment3_E3_EyeCup</a> NaIodide injection 1 WT 1 Healthy
+<br>Order FIXABLE DYE FOR EYE CUP!
+]]></description><link>calendarnotes/2024-09-20.html</link><guid isPermaLink="false">CalendarNotes/2024-09-20.md</guid><pubDate>Fri, 20 Sep 2024 17:53:42 GMT</pubDate></item><item><title><![CDATA[2024-09-23]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="Results/E1_TimeCourseLaserLCNV" data-href="Results/E1_TimeCourseLaserLCNV" href="results/e1_timecourselaserlcnv.html" class="internal-link" target="_self" rel="noopener">E1_TimeCourseLaserLCNV</a> - Flow on Day 4 1st LB group 
+]]></description><link>calendarnotes/2024-09-23.html</link><guid isPermaLink="false">CalendarNotes/2024-09-23.md</guid><pubDate>Fri, 20 Sep 2024 02:47:41 GMT</pubDate></item><item><title><![CDATA[2024-09-24]]></title><description><![CDATA[ 
+ <br>
+<br> <a data-tooltip-position="top" aria-label="Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8-EyeCupExpt" data-href="Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8-EyeCupExpt" href="publications/regunfirstauthor/experiments/functionalassays/cd8-eyecupexpt.html" class="internal-link" target="_self" rel="noopener">CD8-EyeCupExpt</a> Isolate CD8 from Sodium Iodide/Healthy, Culture in Eye Cup
+]]></description><link>calendarnotes/2024-09-24.html</link><guid isPermaLink="false">CalendarNotes/2024-09-24.md</guid><pubDate>Sat, 21 Sep 2024 13:45:08 GMT</pubDate></item><item><title><![CDATA[2024-09-25]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup" data-href="Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup" href="experiments/lcnvseriese1toe4/experiment3_e3_eyecup.html" class="internal-link" target="_self" rel="noopener">Experiment3_E3_EyeCup</a> Flat mount and stain eye cups
+]]></description><link>calendarnotes/2024-09-25.html</link><guid isPermaLink="false">CalendarNotes/2024-09-25.md</guid><pubDate>Fri, 20 Sep 2024 02:49:45 GMT</pubDate></item><item><title><![CDATA[2024-09-26]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="Results/E1_TimeCourseLaserLCNV" data-href="Results/E1_TimeCourseLaserLCNV" href="results/e1_timecourselaserlcnv.html" class="internal-link" target="_self" rel="noopener">E1_TimeCourseLaserLCNV</a> Flow on D7 1LB mice
+<br>Regun is doing FA and FP, train with him if possible
+]]></description><link>calendarnotes/2024-09-26.html</link><guid isPermaLink="false">CalendarNotes/2024-09-26.md</guid><pubDate>Fri, 20 Sep 2024 02:51:12 GMT</pubDate></item><item><title><![CDATA[2024-09-27]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" data-href="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" href="experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html" class="internal-link" target="_self" rel="noopener">Experiment2_E2_PhenotypingLCNV</a> Regun does E2 OCT, must train on this today
+<br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" data-href="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" href="experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html" class="internal-link" target="_self" rel="noopener">Experiment2_E2_PhenotypingLCNV</a> Second laser hit.  Should probably train on this also
+]]></description><link>calendarnotes/2024-09-27.html</link><guid isPermaLink="false">CalendarNotes/2024-09-27.md</guid><pubDate>Fri, 20 Sep 2024 02:52:08 GMT</pubDate></item><item><title><![CDATA[2024-09-28]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" data-href="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" href="experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html" class="internal-link" target="_self" rel="noopener">Experiment2_E2_PhenotypingLCNV</a> Staining - Regun?
+]]></description><link>calendarnotes/2024-09-28.html</link><guid isPermaLink="false">CalendarNotes/2024-09-28.md</guid><pubDate>Fri, 20 Sep 2024 02:52:36 GMT</pubDate></item><item><title><![CDATA[2024-09-29]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" data-href="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" href="experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html" class="internal-link" target="_self" rel="noopener">Staining Day 2</a>
+<br>E4 SI one mouse, LB event #2
+]]></description><link>calendarnotes/2024-09-29.html</link><guid isPermaLink="false">CalendarNotes/2024-09-29.md</guid><pubDate>Sat, 21 Sep 2024 13:46:17 GMT</pubDate></item><item><title><![CDATA[2024-09-30]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-09-30.html</link><guid isPermaLink="false">CalendarNotes/2024-09-30.md</guid><pubDate>Fri, 20 Sep 2024 01:22:12 GMT</pubDate></item><item><title><![CDATA[2024-10-01]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-01.html</link><guid isPermaLink="false">CalendarNotes/2024-10-01.md</guid><pubDate>Fri, 20 Sep 2024 01:20:48 GMT</pubDate></item><item><title><![CDATA[2024-10-02]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-02.html</link><guid isPermaLink="false">CalendarNotes/2024-10-02.md</guid><pubDate>Fri, 20 Sep 2024 01:20:49 GMT</pubDate></item><item><title><![CDATA[2024-10-03]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-03.html</link><guid isPermaLink="false">CalendarNotes/2024-10-03.md</guid><pubDate>Fri, 20 Sep 2024 01:20:51 GMT</pubDate></item><item><title><![CDATA[2024-10-04]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-04.html</link><guid isPermaLink="false">CalendarNotes/2024-10-04.md</guid><pubDate>Fri, 20 Sep 2024 01:20:52 GMT</pubDate></item><item><title><![CDATA[2024-10-05]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-05.html</link><guid isPermaLink="false">CalendarNotes/2024-10-05.md</guid><pubDate>Fri, 20 Sep 2024 01:20:53 GMT</pubDate></item><item><title><![CDATA[2024-10-08]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-08.html</link><guid isPermaLink="false">CalendarNotes/2024-10-08.md</guid><pubDate>Fri, 20 Sep 2024 01:20:56 GMT</pubDate></item><item><title><![CDATA[2024-10-09]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-09.html</link><guid isPermaLink="false">CalendarNotes/2024-10-09.md</guid><pubDate>Fri, 20 Sep 2024 01:20:57 GMT</pubDate></item><item><title><![CDATA[2024-10-10]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-10.html</link><guid isPermaLink="false">CalendarNotes/2024-10-10.md</guid><pubDate>Fri, 20 Sep 2024 01:20:59 GMT</pubDate></item><item><title><![CDATA[2024-10-11]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-11.html</link><guid isPermaLink="false">CalendarNotes/2024-10-11.md</guid><pubDate>Fri, 20 Sep 2024 01:21:00 GMT</pubDate></item><item><title><![CDATA[2024-10-14]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-14.html</link><guid isPermaLink="false">CalendarNotes/2024-10-14.md</guid><pubDate>Fri, 20 Sep 2024 01:42:26 GMT</pubDate></item><item><title><![CDATA[2024-10-15]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-15.html</link><guid isPermaLink="false">CalendarNotes/2024-10-15.md</guid><pubDate>Fri, 20 Sep 2024 01:42:27 GMT</pubDate></item><item><title><![CDATA[2024-10-16]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-16.html</link><guid isPermaLink="false">CalendarNotes/2024-10-16.md</guid><pubDate>Fri, 20 Sep 2024 01:42:29 GMT</pubDate></item><item><title><![CDATA[2024-10-17]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-17.html</link><guid isPermaLink="false">CalendarNotes/2024-10-17.md</guid><pubDate>Fri, 20 Sep 2024 01:42:31 GMT</pubDate></item><item><title><![CDATA[Experiment1_E1_1LBvs2LB]]></title><description><![CDATA[ 
+ <br><br>The observation of increased CD8 Tmem cells in RPE after injury suggests a functional role.  In order to test a hypothesis about their function in the setting of eye injury (or any other immune cell function for that matter) we need a robust method to isolate immune cells from the eye after injury. We are using the laser burn model of LCNV initiated by Regun in a time course to empirically observe the day of the greatest immune infiltrate and CD8 Tmem populations. <br><br>Regun's notes: Total 9 C57BL6&amp;IL17RA(C#151404, 151405, 152131, 152734-11 Months old- (3 on 1LB and 3 on 2 LB) )<br><br>Flow for the <a data-tooltip-position="top" aria-label="MethodsEtc/Flow/CD8 mem Flow Panel" data-href="MethodsEtc/Flow/CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a> done on days 1, 4 7 after a laser burn event. <br>
+<br>1LB flow:
+<br>first laser burn event on Thursday <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-19" data-href="CalendarNotes/2024-09-19" href="calendarnotes/2024-09-19.html" class="internal-link" target="_self" rel="noopener">2024-09-19</a>, 9 mice in 1LB group
+
+<br>Day one on Friday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-20" data-href="CalendarNotes/2024-09-20" href="calendarnotes/2024-09-20.html" class="internal-link" target="_self" rel="noopener">2024-09-20</a> 3 mice/6 eyes
+<br>Day four on Monday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-24" data-href="CalendarNotes/2024-09-24" href="calendarnotes/2024-09-24.html" class="internal-link" target="_self" rel="noopener">2024-09-24</a> 3 mice/6 eyes
+<br>Day seven on Thursday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-26" data-href="CalendarNotes/2024-09-26" href="calendarnotes/2024-09-26.html" class="internal-link" target="_self" rel="noopener">2024-09-26</a>  3 mice/ 6 eyes
+
+
+<br>2LB flow: 
+<br>First laser burn event on Monday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-30" data-href="CalendarNotes/2024-09-30" href="calendarnotes/2024-09-30.html" class="internal-link" target="_self" rel="noopener">2024-09-30</a>
+<br>Second laser burn event on Monday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-10-01" data-href="CalendarNotes/2024-10-01" href="calendarnotes/2024-10-01.html" class="internal-link" target="_self" rel="noopener">2024-10-07</a>
+
+<br>Day one on Tuesday <a data-tooltip-position="top" aria-label="CalendarNotes/2024-10-08" data-href="CalendarNotes/2024-10-08" href="calendarnotes/2024-10-08.html" class="internal-link" target="_self" rel="noopener">2024-10-08</a> 
+<br>Day four on Friday <a data-tooltip-position="top" aria-label="CalendarNotes/2024-10-11" data-href="CalendarNotes/2024-10-11" href="calendarnotes/2024-10-11.html" class="internal-link" target="_self" rel="noopener">2024-10-11</a>
+<br>Day seven on Monday <a data-tooltip-position="top" aria-label="CalendarNotes/2024-10-14" data-href="CalendarNotes/2024-10-14" href="calendarnotes/2024-10-14.html" class="internal-link" target="_self" rel="noopener">2024-10-14</a>
+
+
+<br><a data-tooltip-position="top" aria-label="Results/E1_TimeCourseLaserLCNV" data-href="Results/E1_TimeCourseLaserLCNV" href="results/e1_timecourselaserlcnv.html" class="internal-link" target="_self" rel="noopener">Time Course Flow Data Here</a>]]></description><link>experiments/lcnvseriese1toe4/experiment1_e1_1lbvs2lb.html</link><guid isPermaLink="false">Experiments/LCNVseriesE1toE4/Experiment1_E1_1LBvs2LB.md</guid><pubDate>Fri, 20 Sep 2024 02:36:33 GMT</pubDate></item><item><title><![CDATA[Experiment2_E2_PhenotypingLCNV]]></title><description><![CDATA[ 
+ <br><br>This LCNV model needs to be phenotyped in terms of the lesion size at a minimum.  This experiment is intended to determine statistical variation in lesion size and (hopefully) measure an exacerbated lesion size in mice that get a second laser burn event.<br><br>Mice: Total 8 TSC flox (C#161718, 160229, 156086-  5-8 Months old- (G1: 4 on 1 LB and G2: 4 on 2 LB) )<br>
+(Regun's notes)<br><br>Most of the heavy lifting on this is done by Regun.  Laser burn, eye phenotyping by fundus and OCT, but Regun has limited time left in the lab -  CES needs to train on all these so it would be wise to plan accordingly.<br>E2 first laser burn event on Friday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-20" data-href="CalendarNotes/2024-09-20" href="calendarnotes/2024-09-20.html" class="internal-link" target="_self" rel="noopener">2024-09-20</a>]]></description><link>experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html</link><guid isPermaLink="false">Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV.md</guid><pubDate>Fri, 20 Sep 2024 02:45:11 GMT</pubDate></item><item><title><![CDATA[Experiment3_E3_EyeCup]]></title><description><![CDATA[ 
+ <br><a data-href="2024-09-20" href="calendarnotes/2024-09-20.html" class="internal-link" target="_self" rel="noopener">2024-09-20</a> SI injection one mouse]]></description><link>experiments/lcnvseriese1toe4/experiment3_e3_eyecup.html</link><guid isPermaLink="false">Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup.md</guid><pubDate>Sat, 21 Sep 2024 13:44:39 GMT</pubDate></item><item><title><![CDATA[Experiment4_E4_AdoptiveTxfer]]></title><description><![CDATA[ 
+ <br><br>Pilot experiment<br>
+Classic assay to test for function of immune cells in LCNV model.  In this implementation we will use whole CD8+ population isolated from spleen of sodium iodide injured spleen (also lymph nodes?) and AT them into LCNV injured mice, measuring lesion size.<br>
+1 sodium iodide mouse, AT into one LCNV mouse, no AT in another LCNV mouse to compare<br><br>Mice: Total 3 Mixed (TSC-AhRKO)-(C#153461-SI to 1 mice, isolate splenic CD8 and tail vein injection to 1 AhR (C#157148-16 Months) and  1TSC (C#150202-9 Months old)  LASERED mice)<br>
+(regun's notes)]]></description><link>experiments/lcnvseriese1toe4/experiment4_e4_adoptivetxfer.html</link><guid isPermaLink="false">Experiments/LCNVseriesE1toE4/Experiment4_E4_AdoptiveTxfer.md</guid><pubDate>Fri, 20 Sep 2024 03:02:47 GMT</pubDate></item><item><title><![CDATA[DevNotesP1]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="MethodsEtc/Flow/CD8 mem Flow Panel" data-href="MethodsEtc/Flow/CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a><br>This panel (P1) was run on RPE and Regun observed DP CD4/CD8 cells. Quite a lot.  <br>Assumption is that these cells are an artifact, but we need to make sure they are not occurring in the spleen.  If no DP cells are present in the spleen then the panel should be valid for the RPE also.<br>Same case with DN<br>CD3 clone x? had issues <br><br>
+<br>first run on <a data-href="2024-09-16" href="calendarnotes/2024-09-16.html" class="internal-link" target="_self" rel="noopener">2024-09-16</a> - did not observer any double positive cells.
+<br>CD3 on spleen titrated 1ul &lt; 2ul &lt; 3ul
+]]></description><link>methodsetc/flow/devnotesp1.html</link><guid isPermaLink="false">MethodsEtc/Flow/DevNotesP1.md</guid><pubDate>Fri, 20 Sep 2024 15:09:13 GMT</pubDate></item><item><title><![CDATA[TmemDefsAndConcepts]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/" target="_blank">Concepts of Tmem derived form this review</a><br>
+PMID:&nbsp;<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/34127444" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/34127444" target="_blank">34127444</a> 2022<br>
+<br>Defining memory has been done previously with a broad brush
+<br>Defining Tmem has greater complexity
+
+<br>More so in the CD8 Tmem pool?
+<br>Epigenetic state to define CD8 Tmem?
+
+
+<br>Classic definitions:<br>
+<br>
+Faster response to Antigen
+
+<br>
+Naive produce IL-2/IFN-y within 12 hours while Tmem &lt; 3hours
+
+<br>
+CD8 Tmem kill in vitro in under 5 hours<br>
+- in vivo LCMV model - 49-89% target kills are dead &lt;4 hours, eradication in &lt;24hours<br>
+- compared to naive which have zero capacity to kill.<br>
+Defining traits:
+
+<br>
+CD8 Tmem produce a large amount of IL-2 and IFN-y 
+
+<br>
+CD8 Tmem persist without antigen
+
+<br>LCMV-sp CD8 can be adoptively txferred and persist "indefinitely": <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/7516038/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/7516038/" target="_blank">nature ref 1994</a>
+<br>CD8 Tmem can survive in absence of TCR in mhc-I or b2 macroglobulin knockouts <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/7516039/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/7516039/" target="_blank">here</a> and <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/10558996/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/10558996/" target="_blank">here</a>
+<br>Mechanism? stochastic mitosis ~50 day intervals <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/20733203/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/20733203/" target="_blank">here</a><br>
+overall take-home message
+<br>CD8 Tmem have rapid recall and persist independent of Ag
+
+
+<br>
+Isoforms of CD45 form broad discrimination between naive and memory T cells
+
+<br>
+Circulating properties of Tmem are classified by <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/10359116/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/10359116/" target="_blank">CCR7</a> NOTE: These are human definitions
+
+<br>CCR7+ CD45RA- Central Memory - Greater prolif. capacity
+<br>CCR7- CD45RA- Effector Memory - Greater cytokine producing, more markers of tissue homing
+
+
+<br>
+Mouse Analogues:
+
+<br>CD44+ CD62L+ Central memory <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/12563257/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/12563257/" target="_blank">nature immuno</a>
+<br>CD44+ CD62L- Effector memory
+<br>Resident memory: CD69+ CD103+ <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/15142524/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/15142524/" target="_blank">found by parabiosis</a>
+
+
+<br>
+Stem-like CD8 Tmem
+
+<br>CD45RA+CCR7+ also CD122+ CD95+<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/21926977/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/21926977/" target="_blank">here</a>
+
+
+<br>Defining memory is strictly done on the basis of antigen recognition.<br>
+Using surface markers is an inference based on the fact that memory cells also upregulated those markers in the literature.<br>E.g. OT-1 CD8 AT into irradiated hosts upregulate CD44 yet <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/10952725/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/10952725/" target="_blank">have never seen antigen</a> which is due to homeostatic proliferation.  in other words, naive t cells look like memory.  also shown <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/15548615/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/15548615/" target="_blank">here</a><br>
+Naive cells in this scenario do not have the same cytokine or proliferation properties as memory <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/19675163/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/19675163/" target="_blank">demonstrated again by the goldrath group and cheng group</a><br>CD45 expression is confusing at best. Early studies led people to understand that CD45RA expression is naive, but that is misleading.  By tetramer staining, Ag-sp CD8 T cells at peak of vaccine response are CD45RA-CCR7-, but re-expressed CD45 in a month <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/17535971" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/17535971" target="_blank">here</a> also <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/18468462" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/18468462" target="_blank">here</a>and <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C3" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C3" target="_blank">here</a><br>Thus, truly defining CD8 Tmem by markers is frought. Epigenetic definitions may give clarity to this problem.<br>Recent studies doing this: <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C40" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C40" target="_blank">russ 2014</a> <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C19" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C19" target="_blank">gray</a> <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C51" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C51" target="_blank">youngblood</a><br>
+epigentic programs are durable changes observed to be persistent in humans for <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C1" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C1" target="_blank">years</a> also <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C4" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C4" target="_blank">here</a><br>lacking epigenetic data - <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8392357/" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8392357/" target="_blank">this may offer some insight to defining memory by transcriptomics, however I have not reviewed this carefully</a>]]></description><link>notes/tmemdefsandconcepts.html</link><guid isPermaLink="false">Notes/TmemDefsAndConcepts.md</guid><pubDate>Mon, 23 Sep 2024 01:34:34 GMT</pubDate></item><item><title><![CDATA[CD3 Titrations]]></title><description><![CDATA[ 
+ <br>CD3 was <a data-tooltip-position="top" aria-label="2024-09-16" data-href="2024-09-16" href="calendarnotes/2024-09-16.html" class="internal-link" target="_self" rel="noopener">Titrated on RPE on 9.16.2024 on NaIodide eyes</a><br>
+and spleen.<br>NOTE - these are actually spleen images, misnamed<br>
+<img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_1ul.webp" referrerpolicy="no-referrer"><br>
+<img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_2ul.webp" referrerpolicy="no-referrer"><br>
+<img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_3ul.webp" referrerpolicy="no-referrer">]]></description><link>results/cd3-titrations.html</link><guid isPermaLink="false">Results/CD3 Titrations.md</guid><pubDate>Wed, 18 Sep 2024 02:42:35 GMT</pubDate><enclosure url="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_1ul.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_1ul.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[E1_TimeCourseLaserLCNV]]></title><description><![CDATA[ 
+ ]]></description><link>results/e1_timecourselaserlcnv.html</link><guid isPermaLink="false">Results/E1_TimeCourseLaserLCNV.md</guid><pubDate>Fri, 20 Sep 2024 02:34:58 GMT</pubDate></item><item><title><![CDATA[NormalDataScript]]></title><description><![CDATA[ 
+ <br><br>Seurat Dependencies<br>SeuratPackages &lt;- c('Seurat', 'dplyr','patchwork','glmGamPoi','presto','BPCells','sctransform',               'hdf5r','Azimuth','ggplot2','Signac','SeuratWrappers','BSgenome.Hsapiens.UCSC.hg38')
+lapply(SeuratPackages, library, character.only=TRUE)
+
+Copy<br><br>Data is processed by cellRanger and imported via the Read10x function<br>pbmc &lt;- CreateSeuratObject(counts = pbmc.data, project = "control", min.cells = 3, min.features = 200)
+
+pbmc &lt;- CreateSeuratObject(counts = pbmc.data, project = "control", min.cells = 3, min.features = 200)
+
+pbmc[["percent.mt"]] &lt;- PercentageFeatureSet(pbmc, pattern = "^mt-")
+
+VlnPlot(pbmc, features = c("nFeature_RNA", "nCount_RNA", "percent.mt"), ncol = 3)
+Copy<br><br><br><img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/Rplot0111.png" referrerpolicy="no-referrer"><br><br>plot1 &lt;- FeatureScatter(pbmc, feature1 = "nCount_RNA", feature2 = "percent.mt")
+plot2 &lt;- FeatureScatter(pbmc, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+
+plot1 + plot2
+Copy<br><br><img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/FeatureScatter.png" referrerpolicy="no-referrer"><br><br><img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/FeaturePlotCountsvsPctMt.png" referrerpolicy="no-referrer"><br><img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/FeaturePlotCountsvsFeatures.png" referrerpolicy="no-referrer"><br><br>Examining VlnPlot - ~5% mt cutoff seems appropriate<br>
+Looking at featureplots - about 4200 features seems appropriate. could just do an even 4000. <br>subsetting: <br>pbmcSubset &lt;- subset(pbmc, subset = nFeature_RNA &gt; 200 &amp; nFeature_RNA &lt; 4000 &amp; percent.mt &lt; 5)
+Copy<br><br><img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/VlnPlotAfterSubset.png" referrerpolicy="no-referrer"><br>Normalizing, showing top variable genes:<br>pbmcSubset &lt;- NormalizeData(pbmcSubset, normalization.method = "LogNormalize", scale.factor = 10000)
+
+pbmcSubset &lt;- FindVariableFeatures(pbmcSubset, selection.method = "vst", nfeatures = 2000)
+top40 &lt;- head(VariableFeatures(pbmcSubset), 40)
+plot1 &lt;- VariableFeaturePlot(pbmcSubset)
+plot2 &lt;- LabelPoints(plot = plot1, points = top40, repel = TRUE)
+plot2
+Copy<br><br><img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/Top23VariableGenes.png" referrerpolicy="no-referrer"><br><br>all.genes &lt;- rownames(pbmcSubset)
+pbmcSubset &lt;- ScaleData(pbmcSubset, features = all.genes)
+#alternatively, use this to regress out unwanted factors:
+pbmcSubset &lt;- ScaleData(pbmcSubset, vars.to.regress = "percent.mt")
+
+pbmcSubset &lt;- RunPCA(pbmcSubset, features = VariableFeatures(object = pbmcSubset))
+print(pbmcSubset[["pca"]], dims = 1:5, nfeatures = 5)
+Copy<br>PC_ 1 
+Positive:  Gimap3, Sept1, Rpl12, Gimap4, Ms4a4b 
+Negative:  Ifitm3, Lyz2, Alox5ap, Lst1, Ifitm2 
+PC_ 2 
+Positive:  Cd79a, Ebf1, Cd79b, Cd74, Igkc 
+Negative:  Nkg7, AW112010, Ms4a4b, Id2, Ccl5 
+PC_ 3 
+Positive:  Cd300e, Pglyrp1, Adgre4, Fabp4, Ear2 
+Negative:  Tmem176b, C1qc, C1qb, C1qa, Cxcl16 
+PC_ 4 
+Positive:  Cd3d, Cd3e, Il7r, Cd3g, Tcf7 
+Negative:  Klrb1c, Ncr1, Gzma, Klre1, Prf1 
+PC_ 5 
+Positive:  Tmsb10, Fn1, Vim, Crip1, Ccr2 
+Negative:  C1qa, C1qc, C1qb, Slco2b1, Cd63
+Copy<br>saveRDS(pbmcSubset, file = "")
+Copy<br>Second seurat object with regressed out mt genes<br>pbmcSubsetRegressedMt &lt;- ScaleData(pbmcSubset, vars.to.regress = "percent.mt")
+pbmcSubsetRegressedMt &lt;- RunPCA(pbmcSubsetRegressedMt, features = VariableFeatures(object = pbmcSubsetRegressedMt))
+Copy<br>
+DimPlot(pbmcSubset, reduction = "pca")
+
+DimPlot(pbmcSubsetRegressedMt, reduction = "pca")
+Copy<br><br>PCA on just subsetted data, not regressed for mt<br>
+<img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/PCAPbmcSubsetNomtRegression.png" referrerpolicy="no-referrer"><br>PCA on regressed data:<br><img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/PCAregressedMt.png" referrerpolicy="no-referrer"><br><br>These are used to determine the number of principal components with which to do dimensional reduction<br>both analyses (regressed out Mt or no regression) look essentially identical:<br>
+this is the regressed dataset<br>
+<img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/ElbowPlotRegressedMt.png" referrerpolicy="no-referrer"><br>From this it looks like all of the variability is captured up to PC18, although 15 might be a lower cutoff.  proceeding with 18<br><br>#these perform dimensional reduction with the PC we selected.
+#Dimensions are the PC
+pbmcSubset &lt;- FindNeighbors(pbmcSubset, dims = 1:18)
+pbmcSubset &lt;- FindClusters(pbmcSubset, resolution = 0.5)
+
+pbmcSubsetRegressedMt &lt;- FindNeighbors(pbmcSubsetRegressedMt, dims = 1:18)
+pbmcSubsetRegressedMt &lt;- FindClusters(pbmcSubsetRegressedMt, resolution = 0.5)
+
+pbmcSubset &lt;- RunUMAP(pbmcSubset, dims = 1:18)
+DimPlot(pbmcSubset, reduction = "umap")
+Copy<br>Cluster output for subsetted data no regressed MT:<br><img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/ClusteringSubsettedButNoRegression.png" referrerpolicy="no-referrer"><br>pbmcSubsetRegressedMt &lt;- RunUMAP(pbmcSubsetRegressedMt, dims = 1:18)
+DimPlot(pbmcSubsetRegressedMt, reduction = "umap")
+Copy<br>Cluster output for data with regressed mt:<br>
+<img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/ClusteringWithRegressedMT.png" referrerpolicy="no-referrer"><br><br>#examples of how to find markers in a cluster 
+# find all markers of cluster 2
+cluster2.markers &lt;- FindMarkers(pbmc, ident.1 = 2)
+head(cluster2.markers, n = 5)
+
+
+# find all markers distinguishing cluster 5 from clusters 0 and 3
+cluster0.markers &lt;- FindMarkers(pbmcSubset, ident.1 = 5, ident.2 = c(0, 3))
+head(cluster5.markers, n = 5)
+
+# find markers for every cluster compared to all remaining #cells, report only the positive ones
+pbmc.markers &lt;- FindAllMarkers(pbmc, only.pos = TRUE)
+pbmc.markers %&gt;%
+    group_by(cluster) %&gt;%
+    dplyr::filter(avg_log2FC &gt; 1)
+
+
+Copy<br>cluster0.markers &lt;- FindMarkers(pbmc, ident.1 = 0, logfc.threshold = 0.25, test.use = "roc", only.pos = TRUE)
+Copy<br>#visualize canonical markers across the umap plot
+FeaturePlot(pbmc, features = c("MS4A1", "GNLY", "CD3E", "CD14", "FCER1A", "FCGR3A", "LYZ", "PPBP",
+    "CD8A"))
+
+Copy]]></description><link>scrnaseq/normaldatascript.html</link><guid isPermaLink="false">scRNAseq/NormalDataScript.md</guid><pubDate>Sun, 22 Sep 2024 20:20:54 GMT</pubDate><enclosure url="https://raw.githubusercontent.com/sandelc/obsidian.io/master/Rplot0111.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/Rplot0111.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2024-09-16]]></title><description><![CDATA[ 
  <br>
 <br>Collect eyes and spleen from 3 mice (6 eyes) treated with sodium iodide on <a data-href="2024-09-11" href="calendarnotes/2024-09-11.html" class="internal-link" target="_self" rel="noopener">2024-09-11</a> 
 <br><a data-tooltip-position="top" aria-label="TissueDigestion***REGUN PROTOCOL***" data-href="TissueDigestion***REGUN PROTOCOL***" href="methodsetc/tissuedigestion***regun-protocol***.html" class="internal-link" target="_self" rel="noopener">Stain and Digest</a> spleen+RPE for flow <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a>
@@ -24,12 +269,7 @@ injured eye + injured cd8 (II)<br>Metric: Fluorescence microscopy - Stained for 
 Worth repeating<br>Next step and changes: <br>
 <br>get fixable live/dead dye
 <br>determine cd8 culture conditions
-<br><a href=".?query=tag:Coculture" class="tag" target="_blank" rel="noopener">#Coculture</a> <a href=".?query=tag:CD8BeadIsolation" class="tag" target="_blank" rel="noopener">#CD8BeadIsolation</a> <a href=".?query=tag:TCellCulture" class="tag" target="_blank" rel="noopener">#TCellCulture</a> <a href=".?query=tag:CytotoxicityAssay" class="tag" target="_blank" rel="noopener">#CytotoxicityAssay</a> <a href=".?query=tag:InVitro" class="tag" target="_blank" rel="noopener">#InVitro</a>]]></description><link>publications/regunfirstauthor/experiments/functionalassays/pilotstudy1.html</link><guid isPermaLink="false">Publications/RegunFirstAuthor/Experiments/FunctionalAssays/PilotStudy1.md</guid><pubDate>Wed, 18 Sep 2024 02:39:18 GMT</pubDate></item><item><title><![CDATA[CD3 Titrations]]></title><description><![CDATA[ 
- <br>CD3 was <a data-tooltip-position="top" aria-label="2024-09-16" data-href="2024-09-16" href="calendarnotes/2024-09-16.html" class="internal-link" target="_self" rel="noopener">Titrated on RPE on 9.16.2024 on NaIodide eyes</a><br>
-and spleen.<br>NOTE - these are actually spleen images, misnamed<br>
-<img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_1ul.webp" referrerpolicy="no-referrer"><br>
-<img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_2ul.webp" referrerpolicy="no-referrer"><br>
-<img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_3ul.webp" referrerpolicy="no-referrer">]]></description><link>resultslinks/cd3-titrations.html</link><guid isPermaLink="false">ResultsLinks/CD3 Titrations.md</guid><pubDate>Wed, 18 Sep 2024 02:42:35 GMT</pubDate><enclosure url="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_1ul.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_1ul.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[LearnObsidian]]></title><description><![CDATA[ 
+<br><a href=".?query=tag:Coculture" class="tag" target="_blank" rel="noopener">#Coculture</a> <a href=".?query=tag:CD8BeadIsolation" class="tag" target="_blank" rel="noopener">#CD8BeadIsolation</a> <a href=".?query=tag:TCellCulture" class="tag" target="_blank" rel="noopener">#TCellCulture</a> <a href=".?query=tag:CytotoxicityAssay" class="tag" target="_blank" rel="noopener">#CytotoxicityAssay</a> <a href=".?query=tag:InVitro" class="tag" target="_blank" rel="noopener">#InVitro</a>]]></description><link>publications/regunfirstauthor/experiments/functionalassays/pilotstudy1.html</link><guid isPermaLink="false">Publications/RegunFirstAuthor/Experiments/FunctionalAssays/PilotStudy1.md</guid><pubDate>Wed, 18 Sep 2024 02:39:18 GMT</pubDate></item><item><title><![CDATA[LearnObsidian]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="https://www.markdownguide.org/cheat-sheet/" rel="noopener" class="external-link" href="https://www.markdownguide.org/cheat-sheet/" target="_blank">markdown cheat sheet</a><br>tasks: - [ ] "taskname"]]></description><link>learnobsidian.html</link><guid isPermaLink="false">LearnObsidian.md</guid><pubDate>Wed, 18 Sep 2024 02:40:55 GMT</pubDate></item><item><title><![CDATA[2024-09-10]]></title><description><![CDATA[ 
  <br>Flat mounted and stained 4 eye cups from 1 sodium iodide mouse 1 healthy mouse from <a data-href="PilotStudy1" href="publications/regunfirstauthor/experiments/functionalassays/pilotstudy1.html" class="internal-link" target="_self" rel="noopener">PilotStudy1</a><br>
 <br>Discussed Vitreal Injection Assay.  Began planning for <a data-href="Vitreal_Injections" href="publications/regunfirstauthor/experiments/functionalassays/vitreal_injections.html" class="internal-link" target="_self" rel="noopener">Vitreal_Injections</a>
@@ -86,10 +326,7 @@ Viability day 3:<br>Prepare for Monday- <br>
 <br>Set out enzyme aliquots for digestion
 <br>DMEM-10%FBS and DMEM-F12
 ]]></description><link>calendarnotes/2024-09-15.html</link><guid isPermaLink="false">CalendarNotes/2024-09-15.md</guid><pubDate>Sun, 15 Sep 2024 15:03:08 GMT</pubDate></item><item><title><![CDATA[2024-09-17]]></title><description><![CDATA[ 
- <br>Did barrier facility orientation. ]]></description><link>calendarnotes/2024-09-17.html</link><guid isPermaLink="false">CalendarNotes/2024-09-17.md</guid><pubDate>Tue, 17 Sep 2024 16:06:49 GMT</pubDate></item><item><title><![CDATA[2024-09-20]]></title><description><![CDATA[ 
- <br>
-<br>BMSB animal facility orientation 8-8:45am
-]]></description><link>calendarnotes/2024-09-20.html</link><guid isPermaLink="false">CalendarNotes/2024-09-20.md</guid><pubDate>Tue, 17 Sep 2024 16:07:08 GMT</pubDate></item><item><title><![CDATA[GIT instructions for a simple mind]]></title><description><![CDATA[ 
+ <br>Did barrier facility orientation. ]]></description><link>calendarnotes/2024-09-17.html</link><guid isPermaLink="false">CalendarNotes/2024-09-17.md</guid><pubDate>Tue, 17 Sep 2024 16:06:49 GMT</pubDate></item><item><title><![CDATA[GIT instructions for a simple mind]]></title><description><![CDATA[ 
  <br>find the folder that i ran git init on.....XD<br>
 for the obsidian its in /Export folder<br>using obsidian plugin, export my files to the export folder (select all)<br><br>if access is a problem, generate SSH key in terminal<br>ssh-keygen -t ed25519 -C "your_email@example.com"
 Copy<br>ssh-keygen -t rsa -C "any comment can be here"
@@ -272,8 +509,7 @@ We are developing an assay to test CD8 cytotoxicity in eye cup<br>
 <a data-href="2024-09-15" href="calendarnotes/2024-09-15.html" class="internal-link" target="_self" rel="noopener">2024-09-15</a>]]></description><link>publications/regunfirstauthor/experiments/functionalassays/cd8cultureconditions.html</link><guid isPermaLink="false">Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8CultureConditions.md</guid><pubDate>Thu, 12 Sep 2024 04:23:36 GMT</pubDate></item><item><title><![CDATA[Vitreal_Injections]]></title><description><![CDATA[ 
  <br>Discussion with Dr. Cai on <a data-href="2024-09-10" href="calendarnotes/2024-09-10.html" class="internal-link" target="_self" rel="noopener">2024-09-10</a>]]></description><link>publications/regunfirstauthor/experiments/functionalassays/vitreal_injections.html</link><guid isPermaLink="false">Publications/RegunFirstAuthor/Experiments/FunctionalAssays/Vitreal_Injections.md</guid><pubDate>Thu, 12 Sep 2024 03:57:52 GMT</pubDate></item><item><title><![CDATA[RegunEtAlPaperStructure]]></title><description><![CDATA[ 
  <br>This document will briefly recapitulate each figure of the paper, and globally track what has been completed and what is left to complete]]></description><link>publications/regunfirstauthor/regunetalpaperstructure.html</link><guid isPermaLink="false">Publications/RegunFirstAuthor/RegunEtAlPaperStructure.md</guid><pubDate>Thu, 12 Sep 2024 03:29:18 GMT</pubDate></item><item><title><![CDATA[CeLLama]]></title><description><![CDATA[ 
- <br>i ran <a data-tooltip-position="top" aria-label="https://github.com/portrai-io/CELLama" rel="noopener" class="external-link" href="https://github.com/portrai-io/CELLama" target="_blank">ceLLama</a> and got <a data-tooltip-position="top" aria-label="file:///home/clayton/Desktop/scRNAseq/Images/CeLLamaOnMerged9.6.2024.pdf" rel="noopener" class="external-link" href="file://home/clayton/Desktop/scRNAseq/Images/CeLLamaOnMerged9.6.2024.pdf" target="_blank">This AI/LLM-driven labeling of clusters</a>]]></description><link>scrnaseq/ctrlvsnaiodide/cellama.html</link><guid isPermaLink="false">scRNAseq/CtrlVsNaIodide/CeLLama.md</guid><pubDate>Thu, 12 Sep 2024 02:48:49 GMT</pubDate></item><item><title><![CDATA[DevNotesP1]]></title><description><![CDATA[ 
- <br>This panel was run on RPE and Regun observed DP CD4/CD8 cells. Quite a lot.  <br>Assumption is that these cells are an artifact, but we need to make sure they are not occurring in the spleen.  If no DP cells are present in the spleen then the panel should be valid for the RPE also.<br>Same case with DN<br>CD3 clone x? had issues ]]></description><link>methodsetc/flow/devnotesp1.html</link><guid isPermaLink="false">MethodsEtc/Flow/DevNotesP1.md</guid><pubDate>Tue, 17 Sep 2024 16:07:44 GMT</pubDate></item><item><title><![CDATA[CD8 mem Flow Panel]]></title><description><![CDATA[ 
+ <br>i ran <a data-tooltip-position="top" aria-label="https://github.com/portrai-io/CELLama" rel="noopener" class="external-link" href="https://github.com/portrai-io/CELLama" target="_blank">ceLLama</a> and got <a data-tooltip-position="top" aria-label="file:///home/clayton/Desktop/scRNAseq/Images/CeLLamaOnMerged9.6.2024.pdf" rel="noopener" class="external-link" href="file://home/clayton/Desktop/scRNAseq/Images/CeLLamaOnMerged9.6.2024.pdf" target="_blank">This AI/LLM-driven labeling of clusters</a>]]></description><link>scrnaseq/ctrlvsnaiodide/cellama.html</link><guid isPermaLink="false">scRNAseq/CtrlVsNaIodide/CeLLama.md</guid><pubDate>Thu, 12 Sep 2024 02:48:49 GMT</pubDate></item><item><title><![CDATA[CD8 mem Flow Panel]]></title><description><![CDATA[ 
  <br><a data-href="DevNotesP1" href="methodsetc/flow/devnotesp1.html" class="internal-link" target="_self" rel="noopener">DevNotesP1</a><br>CD3 BV421<br>
 CD4 AF488<br>
 CD8 PECy7<br>
