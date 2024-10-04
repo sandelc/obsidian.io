@@ -1,89 +1,122 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LabNotes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>LabNotes</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 23 Sep 2024 01:34:51 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 23 Sep 2024 01:34:50 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024-09-18]]></title><description><![CDATA[ 
- <br><br>Phenotyping experiment - Goal to show a reproducible phenotype in the <a data-tooltip-position="top" aria-label="MethodsEtc/LCNV Model" data-href="MethodsEtc/LCNV Model" href="methodsetc/lcnv-model.html" class="internal-link" target="_self" rel="noopener">LCNV Model</a><br>
-<br>Primary readout - Flat mount to measure lesion size
-<br>4 mice in 1 laser group - Eyes taken at D7
-<br>4 mice in 2 laser group - Eyes taken at D14
-<br>Young mice (to be purchased soon) with the rationale of that is routine for the field.  Discussion as to the relevance to AMD (being a disease of older people)
-<br>Time Course Experiment - Goal is to determine what timepoint has the most immune cell population in the eye after inducing a memory/recall response with laser burn.<br>
-<br>Readout - <a data-tooltip-position="top" aria-label="MethodsEtc/Flow/CD8 mem Flow Panel" data-href="MethodsEtc/Flow/CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a>. Quantify the number of CD8 memory cells in the eye after injury.
-<br>Time points relative to the laser burn: Day 1, 4, 7
-<br>2 Groups - 1 laser burn events (1L) and 2 laser burn events (2L)
-]]></description><link>calendarnotes/2024-09-18.html</link><guid isPermaLink="false">CalendarNotes/2024-09-18.md</guid><pubDate>Wed, 18 Sep 2024 20:48:18 GMT</pubDate></item><item><title><![CDATA[2024-09-19]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-09-19.html</link><guid isPermaLink="false">CalendarNotes/2024-09-19.md</guid><pubDate>Fri, 20 Sep 2024 01:12:11 GMT</pubDate></item><item><title><![CDATA[2024-09-20]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LabNotes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>LabNotes</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 04 Oct 2024 14:02:41 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 04 Oct 2024 14:02:40 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[2024-09-20]]></title><description><![CDATA[ 
  <br>
 <br>BMSB animal facility orientation 8-8:45am
 <br><a data-tooltip-position="top" aria-label="Results/E1_TimeCourseLaserLCNV" data-href="Results/E1_TimeCourseLaserLCNV" href="results/e1_timecourselaserlcnv.html" class="internal-link" target="_self" rel="noopener">E1_TimeCourseLaserLCNV</a> Flow Day 1 first LB event
 <br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup" data-href="Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup" href="experiments/lcnvseriese1toe4/experiment3_e3_eyecup.html" class="internal-link" target="_self" rel="noopener">Experiment3_E3_EyeCup</a> NaIodide injection 1 WT 1 Healthy
 <br>Order FIXABLE DYE FOR EYE CUP!
-]]></description><link>calendarnotes/2024-09-20.html</link><guid isPermaLink="false">CalendarNotes/2024-09-20.md</guid><pubDate>Fri, 20 Sep 2024 17:53:42 GMT</pubDate></item><item><title><![CDATA[2024-09-23]]></title><description><![CDATA[ 
+]]></description><link>calendarnotes/2024-09-20.html</link><guid isPermaLink="false">CalendarNotes/2024-09-20.md</guid><pubDate>Mon, 23 Sep 2024 18:00:12 GMT</pubDate></item><item><title><![CDATA[2024-09-23]]></title><description><![CDATA[ 
  <br>
 <br><a data-tooltip-position="top" aria-label="Results/E1_TimeCourseLaserLCNV" data-href="Results/E1_TimeCourseLaserLCNV" href="results/e1_timecourselaserlcnv.html" class="internal-link" target="_self" rel="noopener">E1_TimeCourseLaserLCNV</a> - Flow on Day 4 1st LB group 
-]]></description><link>calendarnotes/2024-09-23.html</link><guid isPermaLink="false">CalendarNotes/2024-09-23.md</guid><pubDate>Fri, 20 Sep 2024 02:47:41 GMT</pubDate></item><item><title><![CDATA[2024-09-24]]></title><description><![CDATA[ 
+]]></description><link>calendarnotes/2024-09-23.html</link><guid isPermaLink="false">CalendarNotes/2024-09-23.md</guid><pubDate>Mon, 23 Sep 2024 18:00:08 GMT</pubDate></item><item><title><![CDATA[2024-09-24]]></title><description><![CDATA[ 
  <br>
 <br> <a data-tooltip-position="top" aria-label="Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8-EyeCupExpt" data-href="Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8-EyeCupExpt" href="publications/regunfirstauthor/experiments/functionalassays/cd8-eyecupexpt.html" class="internal-link" target="_self" rel="noopener">CD8-EyeCupExpt</a> Isolate CD8 from Sodium Iodide/Healthy, Culture in Eye Cup
-]]></description><link>calendarnotes/2024-09-24.html</link><guid isPermaLink="false">CalendarNotes/2024-09-24.md</guid><pubDate>Sat, 21 Sep 2024 13:45:08 GMT</pubDate></item><item><title><![CDATA[2024-09-25]]></title><description><![CDATA[ 
+]]></description><link>calendarnotes/2024-09-24.html</link><guid isPermaLink="false">CalendarNotes/2024-09-24.md</guid><pubDate>Wed, 25 Sep 2024 02:40:38 GMT</pubDate></item><item><title><![CDATA[2024-09-25]]></title><description><![CDATA[ 
  <br>
 <br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup" data-href="Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup" href="experiments/lcnvseriese1toe4/experiment3_e3_eyecup.html" class="internal-link" target="_self" rel="noopener">Experiment3_E3_EyeCup</a> Flat mount and stain eye cups
-]]></description><link>calendarnotes/2024-09-25.html</link><guid isPermaLink="false">CalendarNotes/2024-09-25.md</guid><pubDate>Fri, 20 Sep 2024 02:49:45 GMT</pubDate></item><item><title><![CDATA[2024-09-26]]></title><description><![CDATA[ 
- <br>
-<br><a data-tooltip-position="top" aria-label="Results/E1_TimeCourseLaserLCNV" data-href="Results/E1_TimeCourseLaserLCNV" href="results/e1_timecourselaserlcnv.html" class="internal-link" target="_self" rel="noopener">E1_TimeCourseLaserLCNV</a> Flow on D7 1LB mice
-<br>Regun is doing FA and FP, train with him if possible
-]]></description><link>calendarnotes/2024-09-26.html</link><guid isPermaLink="false">CalendarNotes/2024-09-26.md</guid><pubDate>Fri, 20 Sep 2024 02:51:12 GMT</pubDate></item><item><title><![CDATA[2024-09-27]]></title><description><![CDATA[ 
+]]></description><link>calendarnotes/2024-09-25.html</link><guid isPermaLink="false">CalendarNotes/2024-09-25.md</guid><pubDate>Wed, 25 Sep 2024 16:34:44 GMT</pubDate></item><item><title><![CDATA[2024-09-27]]></title><description><![CDATA[ 
  <br>
 <br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" data-href="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" href="experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html" class="internal-link" target="_self" rel="noopener">Experiment2_E2_PhenotypingLCNV</a> Regun does E2 OCT, must train on this today
 <br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" data-href="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" href="experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html" class="internal-link" target="_self" rel="noopener">Experiment2_E2_PhenotypingLCNV</a> Second laser hit.  Should probably train on this also
-]]></description><link>calendarnotes/2024-09-27.html</link><guid isPermaLink="false">CalendarNotes/2024-09-27.md</guid><pubDate>Fri, 20 Sep 2024 02:52:08 GMT</pubDate></item><item><title><![CDATA[2024-09-28]]></title><description><![CDATA[ 
- <br>
-<br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" data-href="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" href="experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html" class="internal-link" target="_self" rel="noopener">Experiment2_E2_PhenotypingLCNV</a> Staining - Regun?
-]]></description><link>calendarnotes/2024-09-28.html</link><guid isPermaLink="false">CalendarNotes/2024-09-28.md</guid><pubDate>Fri, 20 Sep 2024 02:52:36 GMT</pubDate></item><item><title><![CDATA[2024-09-29]]></title><description><![CDATA[ 
+<br>Cryosectioning and flow on aurora. Cryo at 1pm, flow at 2:30
+]]></description><link>calendarnotes/2024-09-27.html</link><guid isPermaLink="false">CalendarNotes/2024-09-27.md</guid><pubDate>Thu, 26 Sep 2024 20:35:21 GMT</pubDate></item><item><title><![CDATA[2024-09-29]]></title><description><![CDATA[ 
  <br>
 <br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" data-href="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" href="experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html" class="internal-link" target="_self" rel="noopener">Staining Day 2</a>
 <br>E4 SI one mouse, LB event #2
-]]></description><link>calendarnotes/2024-09-29.html</link><guid isPermaLink="false">CalendarNotes/2024-09-29.md</guid><pubDate>Sat, 21 Sep 2024 13:46:17 GMT</pubDate></item><item><title><![CDATA[2024-09-30]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-09-30.html</link><guid isPermaLink="false">CalendarNotes/2024-09-30.md</guid><pubDate>Fri, 20 Sep 2024 01:22:12 GMT</pubDate></item><item><title><![CDATA[2024-10-01]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-01.html</link><guid isPermaLink="false">CalendarNotes/2024-10-01.md</guid><pubDate>Fri, 20 Sep 2024 01:20:48 GMT</pubDate></item><item><title><![CDATA[2024-10-02]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-02.html</link><guid isPermaLink="false">CalendarNotes/2024-10-02.md</guid><pubDate>Fri, 20 Sep 2024 01:20:49 GMT</pubDate></item><item><title><![CDATA[2024-10-03]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-03.html</link><guid isPermaLink="false">CalendarNotes/2024-10-03.md</guid><pubDate>Fri, 20 Sep 2024 01:20:51 GMT</pubDate></item><item><title><![CDATA[2024-10-04]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-04.html</link><guid isPermaLink="false">CalendarNotes/2024-10-04.md</guid><pubDate>Fri, 20 Sep 2024 01:20:52 GMT</pubDate></item><item><title><![CDATA[2024-10-05]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-05.html</link><guid isPermaLink="false">CalendarNotes/2024-10-05.md</guid><pubDate>Fri, 20 Sep 2024 01:20:53 GMT</pubDate></item><item><title><![CDATA[2024-10-08]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-08.html</link><guid isPermaLink="false">CalendarNotes/2024-10-08.md</guid><pubDate>Fri, 20 Sep 2024 01:20:56 GMT</pubDate></item><item><title><![CDATA[2024-10-09]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-09.html</link><guid isPermaLink="false">CalendarNotes/2024-10-09.md</guid><pubDate>Fri, 20 Sep 2024 01:20:57 GMT</pubDate></item><item><title><![CDATA[2024-10-10]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-10.html</link><guid isPermaLink="false">CalendarNotes/2024-10-10.md</guid><pubDate>Fri, 20 Sep 2024 01:20:59 GMT</pubDate></item><item><title><![CDATA[2024-10-11]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-11.html</link><guid isPermaLink="false">CalendarNotes/2024-10-11.md</guid><pubDate>Fri, 20 Sep 2024 01:21:00 GMT</pubDate></item><item><title><![CDATA[2024-10-14]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-14.html</link><guid isPermaLink="false">CalendarNotes/2024-10-14.md</guid><pubDate>Fri, 20 Sep 2024 01:42:26 GMT</pubDate></item><item><title><![CDATA[2024-10-15]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-15.html</link><guid isPermaLink="false">CalendarNotes/2024-10-15.md</guid><pubDate>Fri, 20 Sep 2024 01:42:27 GMT</pubDate></item><item><title><![CDATA[2024-10-16]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-16.html</link><guid isPermaLink="false">CalendarNotes/2024-10-16.md</guid><pubDate>Fri, 20 Sep 2024 01:42:29 GMT</pubDate></item><item><title><![CDATA[2024-10-17]]></title><description><![CDATA[ 
- ]]></description><link>calendarnotes/2024-10-17.html</link><guid isPermaLink="false">CalendarNotes/2024-10-17.md</guid><pubDate>Fri, 20 Sep 2024 01:42:31 GMT</pubDate></item><item><title><![CDATA[Experiment1_E1_1LBvs2LB]]></title><description><![CDATA[ 
- <br><br>The observation of increased CD8 Tmem cells in RPE after injury suggests a functional role.  In order to test a hypothesis about their function in the setting of eye injury (or any other immune cell function for that matter) we need a robust method to isolate immune cells from the eye after injury. We are using the laser burn model of LCNV initiated by Regun in a time course to empirically observe the day of the greatest immune infiltrate and CD8 Tmem populations. <br><br>Regun's notes: Total 9 C57BL6&amp;IL17RA(C#151404, 151405, 152131, 152734-11 Months old- (3 on 1LB and 3 on 2 LB) )<br><br>Flow for the <a data-tooltip-position="top" aria-label="MethodsEtc/Flow/CD8 mem Flow Panel" data-href="MethodsEtc/Flow/CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a> done on days 1, 4 7 after a laser burn event. <br>
-<br>1LB flow:
-<br>first laser burn event on Thursday <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-19" data-href="CalendarNotes/2024-09-19" href="calendarnotes/2024-09-19.html" class="internal-link" target="_self" rel="noopener">2024-09-19</a>, 9 mice in 1LB group
+]]></description><link>calendarnotes/2024-09-29.html</link><guid isPermaLink="false">CalendarNotes/2024-09-29.md</guid><pubDate>Mon, 30 Sep 2024 03:45:34 GMT</pubDate></item><item><title><![CDATA[2024-09-30]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment1_E1_1LBvs2LB" data-href="Experiments/LCNVseriesE1toE4/Experiment1_E1_1LBvs2LB" href="experiments/lcnvseriese1toe4/experiment1_e1_1lbvs2lb.html" class="internal-link" target="_self" rel="noopener">Experiment1_E1_1LBvs2LB</a> First laser burn event of 2-hit group. ]]></description><link>calendarnotes/2024-09-30.html</link><guid isPermaLink="false">CalendarNotes/2024-09-30.md</guid><pubDate>Mon, 30 Sep 2024 03:47:07 GMT</pubDate></item><item><title><![CDATA[2024-10-01]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-01.html</link><guid isPermaLink="false">CalendarNotes/2024-10-01.md</guid><pubDate>Mon, 30 Sep 2024 03:48:02 GMT</pubDate></item><item><title><![CDATA[2024-10-03]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" data-href="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" href="experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html" class="internal-link" target="_self" rel="noopener">Experiment2_E2_PhenotypingLCNV</a>  FA, FP<br>
+<br>Isolate CD8 from NaIodide mouse, adoptive transfer into laser burn mouse
+]]></description><link>calendarnotes/2024-10-03.html</link><guid isPermaLink="false">CalendarNotes/2024-10-03.md</guid><pubDate>Mon, 30 Sep 2024 03:48:45 GMT</pubDate></item><item><title><![CDATA[Macrophage Panel]]></title><description><![CDATA[ 
+ ]]></description><link>methodsetc/flow/macrophage-panel.html</link><guid isPermaLink="false">MethodsEtc/Flow/Macrophage Panel.md</guid><pubDate>Wed, 25 Sep 2024 18:05:25 GMT</pubDate></item><item><title><![CDATA[EyeCup LiveDead stain fix]]></title><description><![CDATA[ 
+ <br>2ul EtBr<br>
+0.5ul Calcein<br>
+1ml PBS<br>transfer eye cup into 100ul of above staining solution<br>30min RT<br>transfer eye cup into 100ul 4% paraformaldehyde solution to fix<br>
+1 hour RT]]></description><link>methodsetc/eyecup-livedead-stain-fix.html</link><guid isPermaLink="false">MethodsEtc/EyeCup LiveDead stain fix.md</guid><pubDate>Wed, 25 Sep 2024 16:33:44 GMT</pubDate></item><item><title><![CDATA[LCNV Model]]></title><description><![CDATA[ 
+ <br>
+<br>240 watts 240ms laser
+<br>optimizing the timing of immune response/CNV formation
+]]></description><link>methodsetc/lcnv-model.html</link><guid isPermaLink="false">MethodsEtc/LCNV Model.md</guid><pubDate>Wed, 25 Sep 2024 21:08:08 GMT</pubDate></item><item><title><![CDATA[ProcedureMetrics]]></title><description><![CDATA[ 
+ <br><a data-href="CD8TcellBeadIsolation" href="methodsetc/cd8tcellbeadisolation.html" class="internal-link" target="_self" rel="noopener">CD8TcellBeadIsolation</a><br>
+<br><a data-href="PilotStudy1" href="publications/regunfirstauthor/experiments/functionalassays/pilotstudy1.html" class="internal-link" target="_self" rel="noopener">PilotStudy1</a>
 
-<br>Day one on Friday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-20" data-href="CalendarNotes/2024-09-20" href="calendarnotes/2024-09-20.html" class="internal-link" target="_self" rel="noopener">2024-09-20</a> 3 mice/6 eyes
-<br>Day four on Monday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-24" data-href="CalendarNotes/2024-09-24" href="calendarnotes/2024-09-24.html" class="internal-link" target="_self" rel="noopener">2024-09-24</a> 3 mice/6 eyes
-<br>Day seven on Thursday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-26" data-href="CalendarNotes/2024-09-26" href="calendarnotes/2024-09-26.html" class="internal-link" target="_self" rel="noopener">2024-09-26</a>  3 mice/ 6 eyes
+<br>CD8 T cells ~1.8e6 - 2e6 per spleen
+<br>FITC labeling/anti-FITC beads
 
 
-<br>2LB flow: 
-<br>First laser burn event on Monday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-30" data-href="CalendarNotes/2024-09-30" href="calendarnotes/2024-09-30.html" class="internal-link" target="_self" rel="noopener">2024-09-30</a>
-<br>Second laser burn event on Monday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-10-01" data-href="CalendarNotes/2024-10-01" href="calendarnotes/2024-10-01.html" class="internal-link" target="_self" rel="noopener">2024-10-07</a>
+<br>CD8 isolation on <a data-href="2024-09-24" href="calendarnotes/2024-09-24.html" class="internal-link" target="_self" rel="noopener">2024-09-24</a><br>
+- Spleen cells ~30e6 per spleen<br>
+- CD8 Cells isolated ~7e6<br>
+- FITC antibody used 5ul per 30e6 cells in 100ul, 20 min RT<br>
+<a data-tooltip-position="top" aria-label="MethodsEtc/TissueDigestion***REGUN PROTOCOL***" data-href="MethodsEtc/TissueDigestion***REGUN PROTOCOL***" href="methodsetc/tissuedigestion***regun-protocol***.html" class="internal-link" target="_self" rel="noopener">Tissue Digestion</a>
+<br><a data-href="2024-09-23" href="calendarnotes/2024-09-23.html" class="internal-link" target="_self" rel="noopener">2024-09-23</a> digestion.  Spin was 11min with 300xG and that produced a larger pellet although it was likely too much debris
+]]></description><link>methodsetc/proceduremetrics.html</link><guid isPermaLink="false">MethodsEtc/ProcedureMetrics.md</guid><pubDate>Wed, 25 Sep 2024 18:34:42 GMT</pubDate></item><item><title><![CDATA[Action items]]></title><description><![CDATA[ 
+ <br><br><a data-tooltip-position="top" aria-label="https://github.com/Teichlab/cellity" rel="noopener" class="external-link" href="https://github.com/Teichlab/cellity" target="_blank">cellity</a> and <a data-tooltip-position="top" aria-label="https://morgridge.org/research/regenerative-biology/software-resources/sinqc/" rel="noopener" class="external-link" href="https://morgridge.org/research/regenerative-biology/software-resources/sinqc/" target="_blank">sinqc</a><br>
+can remove low quality cells automatically, but require fastq read files to do so.<br>Removing Doublets<br><a data-tooltip-position="top" aria-label="https://github.com/chris-mcginnis-ucsf/DoubletFinder" rel="noopener" class="external-link" href="https://github.com/chris-mcginnis-ucsf/DoubletFinder" target="_blank">DoubletFinder</a> is straightforward to implement. Requires a fully processed seurat object, including cell identities assigned to clusters.<br>Removing Ambient RNA]]></description><link>notes/scrnaseqnotes/generalconcepts/action-items.html</link><guid isPermaLink="false">Notes/scRNAseqNotes/GeneralConcepts/Action items.md</guid><pubDate>Sun, 29 Sep 2024 03:13:55 GMT</pubDate></item><item><title><![CDATA[BestPractices]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="https://www.embopress.org/doi/full/10.15252/msb.20188746" rel="noopener" class="external-link" href="https://www.embopress.org/doi/full/10.15252/msb.20188746" target="_blank">BestPracticesTutorialPublication</a><br>
+notes follow - <br>raw data - CellRanger, indrops, zUMIs do this.<br>
+Assigning reads to cell barcodes --- "Demultiplexing"<br>
+gene alignment, quantifiation<br>
+yields read/count matrix of BARCODES vs genes.<br>
+BC some barcodes may be tagged on more than one cell (doublet)<br>
+or no cells (empty droplet, empty well)<br>QC Metrics - (coviariates)<br>
+<br>Counts per barcode
+<br>Genes per barcode
+<br>%mt genes per barcode<br>
+<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/26887813/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/26887813/" target="_blank">classification of low quality cells from scrnaseq</a>
+<br>Other QC Metrics<br>
+<br>Read Quality - Filter on reads with over 30 in Q30 scores
+<br>Datasets with low Q30 scores in barcode read have poor cell assignment
 
-<br>Day one on Tuesday <a data-tooltip-position="top" aria-label="CalendarNotes/2024-10-08" data-href="CalendarNotes/2024-10-08" href="calendarnotes/2024-10-08.html" class="internal-link" target="_self" rel="noopener">2024-10-08</a> 
-<br>Day four on Friday <a data-tooltip-position="top" aria-label="CalendarNotes/2024-10-11" data-href="CalendarNotes/2024-10-11" href="calendarnotes/2024-10-11.html" class="internal-link" target="_self" rel="noopener">2024-10-11</a>
-<br>Day seven on Monday <a data-tooltip-position="top" aria-label="CalendarNotes/2024-10-14" data-href="CalendarNotes/2024-10-14" href="calendarnotes/2024-10-14.html" class="internal-link" target="_self" rel="noopener">2024-10-14</a>
+<br>poor Q30 scores in the RNA read will not be able to be aligned
+<br>Typical values 60-70% throughout, with highest in the barcode read
 
 
-<br><a data-tooltip-position="top" aria-label="Results/E1_TimeCourseLaserLCNV" data-href="Results/E1_TimeCourseLaserLCNV" href="results/e1_timecourselaserlcnv.html" class="internal-link" target="_self" rel="noopener">Time Course Flow Data Here</a>]]></description><link>experiments/lcnvseriese1toe4/experiment1_e1_1lbvs2lb.html</link><guid isPermaLink="false">Experiments/LCNVseriesE1toE4/Experiment1_E1_1LBvs2LB.md</guid><pubDate>Fri, 20 Sep 2024 02:36:33 GMT</pubDate></item><item><title><![CDATA[Experiment2_E2_PhenotypingLCNV]]></title><description><![CDATA[ 
- <br><br>This LCNV model needs to be phenotyped in terms of the lesion size at a minimum.  This experiment is intended to determine statistical variation in lesion size and (hopefully) measure an exacerbated lesion size in mice that get a second laser burn event.<br><br>Mice: Total 8 TSC flox (C#161718, 160229, 156086-  5-8 Months old- (G1: 4 on 1 LB and G2: 4 on 2 LB) )<br>
-(Regun's notes)<br><br>Most of the heavy lifting on this is done by Regun.  Laser burn, eye phenotyping by fundus and OCT, but Regun has limited time left in the lab -  CES needs to train on all these so it would be wise to plan accordingly.<br>E2 first laser burn event on Friday, <a data-tooltip-position="top" aria-label="CalendarNotes/2024-09-20" data-href="CalendarNotes/2024-09-20" href="calendarnotes/2024-09-20.html" class="internal-link" target="_self" rel="noopener">2024-09-20</a>]]></description><link>experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html</link><guid isPermaLink="false">Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV.md</guid><pubDate>Fri, 20 Sep 2024 02:45:11 GMT</pubDate></item><item><title><![CDATA[Experiment3_E3_EyeCup]]></title><description><![CDATA[ 
- <br><a data-href="2024-09-20" href="calendarnotes/2024-09-20.html" class="internal-link" target="_self" rel="noopener">2024-09-20</a> SI injection one mouse]]></description><link>experiments/lcnvseriese1toe4/experiment3_e3_eyecup.html</link><guid isPermaLink="false">Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup.md</guid><pubDate>Sat, 21 Sep 2024 13:44:39 GMT</pubDate></item><item><title><![CDATA[Experiment4_E4_AdoptiveTxfer]]></title><description><![CDATA[ 
- <br><br>Pilot experiment<br>
-Classic assay to test for function of immune cells in LCNV model.  In this implementation we will use whole CD8+ population isolated from spleen of sodium iodide injured spleen (also lymph nodes?) and AT them into LCNV injured mice, measuring lesion size.<br>
-1 sodium iodide mouse, AT into one LCNV mouse, no AT in another LCNV mouse to compare<br><br>Mice: Total 3 Mixed (TSC-AhRKO)-(C#153461-SI to 1 mice, isolate splenic CD8 and tail vein injection to 1 AhR (C#157148-16 Months) and  1TSC (C#150202-9 Months old)  LASERED mice)<br>
-(regun's notes)]]></description><link>experiments/lcnvseriese1toe4/experiment4_e4_adoptivetxfer.html</link><guid isPermaLink="false">Experiments/LCNVseriesE1toE4/Experiment4_E4_AdoptiveTxfer.md</guid><pubDate>Fri, 20 Sep 2024 03:02:47 GMT</pubDate></item><item><title><![CDATA[DevNotesP1]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="MethodsEtc/Flow/CD8 mem Flow Panel" data-href="MethodsEtc/Flow/CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a><br>This panel (P1) was run on RPE and Regun observed DP CD4/CD8 cells. Quite a lot.  <br>Assumption is that these cells are an artifact, but we need to make sure they are not occurring in the spleen.  If no DP cells are present in the spleen then the panel should be valid for the RPE also.<br>Same case with DN<br>CD3 clone x? had issues <br><br>
-<br>first run on <a data-href="2024-09-16" href="calendarnotes/2024-09-16.html" class="internal-link" target="_self" rel="noopener">2024-09-16</a> - did not observer any double positive cells.
-<br>CD3 on spleen titrated 1ul &lt; 2ul &lt; 3ul
-]]></description><link>methodsetc/flow/devnotesp1.html</link><guid isPermaLink="false">MethodsEtc/Flow/DevNotesP1.md</guid><pubDate>Fri, 20 Sep 2024 15:09:13 GMT</pubDate></item><item><title><![CDATA[TmemDefsAndConcepts]]></title><description><![CDATA[ 
+<br>Alignment QC - 40% or higher exonic reads is good
+<br>Direct calculation ? - the % of reads that are in the dataset after count matrix is made. Can estimate the cell input (hemacytometer counts, flow counts) If we get around the same number of cells in a count matrix, amazing. 
+<br>QC metrics must be considered together, not in isolation. EG high mt counts may suggest involvement in respiration.  Cells/barcodes with low counts may be quiescent cells, high counts may be physically large cells.<br>
+Then how to make thresholding decisions?<br>
+Be permissive.<br>
+Consider whether a threshold removes more than the expected # of cells<br>Datasets with mixed cell populations may have multiple peaks in QC metrics<br>
+<br>Addressing QC parameters in an analysis workflow changes the output of downstream analysis methods ie pathways, clustering etc. 
+<br>Knowing whether the QC filters/methods applied are adequate is impossible to know, but can be inferred by performance of downstream analysis methods. 
+
+<br>Therefore, recursive analysis is required.
+
+
+<br><a data-tooltip-position="top" aria-label="https://www.nature.com/articles/s41586-018-0394-6" rel="noopener" class="external-link" href="https://www.nature.com/articles/s41586-018-0394-6" target="_blank">Determine QC metrics independently across samples as in this example</a><br><br>the simple approach is de-select cells that have unusually high gene counts.  In practice what does that mean i'm not sure.<br><a data-tooltip-position="top" aria-label="https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31286-0" rel="noopener" class="external-link" href="https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31286-0" target="_blank">DoubletDecon</a> is one doublet detection method<br>
+<a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6625319/" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6625319/" target="_blank">Scrublet</a><br>
+<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/30954475/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/30954475/" target="_blank">DoubletFinder</a><br><br><a data-tooltip-position="top" aria-label="https://www.biorxiv.org/content/10.1101/303727v2" rel="noopener" class="external-link" href="https://www.biorxiv.org/content/10.1101/303727v2" target="_blank">soupx</a><br>
+also (<a rel="noopener" class="external-link" href="https://academic.oup.com/gigascience/article/9/12/giaa151/6049831" target="_blank">https://academic.oup.com/gigascience/article/9/12/giaa151/6049831</a>)<br>
+removes ambient rna by analyzing empty droplets?????<br><br>The wetlab process has a lot of room for error.  Cell digestion, isolation, sorting, capture/bead, RT, sequencing.<br>
+Count depth can vary greatly simply due to these processes, even when processed the same.  Therefore identical cells could potentially look very different.<br>
+Normalization is required to address this<br><br>a simple way is to scale the gene expression per cell by the total library size<br>
+CPM normalization. or scaling by the median count depth per cell<br>
+the assumption here is that all cells initially had equal RNA and the only difference in RELATIVE amounts is due to sampling error.<br>
+Downsampling has the same assumption. It randomly samples reads/counts so that all cells have a certain # of counts or less. (deletes data)<br>
+These approaches aren't great for mixed populations.  Maybe they are good for very uniform populations<br>
+<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/27122128/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/27122128/" target="_blank">this pooling method</a>  (scran) does a linear regression of genes after pooling all the cells, to estimate a size factor. and available <a data-tooltip-position="top" aria-label="https://bioconductor.org/packages/release/bioc/html/scran.html" rel="noopener" class="external-link" href="https://bioconductor.org/packages/release/bioc/html/scran.html" target="_blank">here?</a><br>
+Scran outperforms other normalization methods <a data-tooltip-position="top" aria-label="https://doi.org/10.1038/s41592-018-0254-1" rel="noopener" class="external-link" href="https://doi.org/10.1038/s41592-018-0254-1" target="_blank">one example in batch correction</a> and <a data-tooltip-position="top" aria-label="https://www.biorxiv.org/content/10.1101/583013v3" rel="noopener" class="external-link" href="https://www.biorxiv.org/content/10.1101/583013v3" target="_blank">DE analysis</a><br>Normalization with bulk methods was used at first but zero-inflated sc Data required new approaches<br>
+<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/27122128/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/27122128/" target="_blank">one example</a> and a <a data-tooltip-position="top" aria-label="https://www.nature.com/articles/nmeth.4292" rel="noopener" class="external-link" href="https://www.nature.com/articles/nmeth.4292" target="_blank">second one</a> <a rel="noopener" class="external-link" href="https://doi.org/10.1038/nmeth.4292" target="_blank">https://doi.org/10.1038/nmeth.4292</a><br><br>Can account for more complex unwanted variation.<br>
+examples from <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/29513653/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/29513653/" target="_blank">Satijas? group</a><br><br>All these normalizations above apply to cells...  Normalization could be applied to genes.<br>
+The central question is - should all genes be weighted equally?<br>
+<br>put the way the paper i'm following today  - "is the magnitude of gene expression informative for the importance of the gene"<br>
+can evaluate normalization tools with <a data-tooltip-position="top" aria-label="https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30080-8" rel="noopener" class="external-link" href="https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30080-8" target="_blank">scone</a>
+<br><br>
+<br>3 important effects
+
+<br>Distance between log-txformed expression values become logFC, which is what we are typically trained to evaluate
+<br>log-txformation mitigates the mean-variance relationship in single cell data <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/24056876/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/24056876/" target="_blank">by reducing technical noise?</a>
+<br>reduces the skewness of the data, so that assumptions of normality can be (sorta) met for downstream tools
+
+
+<br>SCRNASEQ is not lognormal data <a data-tooltip-position="top" aria-label="https://academic.oup.com/bioinformatics/article/33/21/3486/3952669" rel="noopener" class="external-link" href="https://academic.oup.com/bioinformatics/article/33/21/3486/3952669" target="_blank">powsimrPaperDiscusses?</a>
+<br>Log transformation <a data-tooltip-position="top" aria-label="https://www.biorxiv.org/content/10.1101/404962v1" rel="noopener" class="external-link" href="https://www.biorxiv.org/content/10.1101/404962v1" target="_blank">can introduce error</a>
+<br><br><a data-tooltip-position="top" aria-label="https://www.nature.com/articles/nmeth.4644" rel="noopener" class="external-link" href="https://www.nature.com/articles/nmeth.4644" target="_blank">scmap</a><br>
+<a rel="noopener" class="external-link" href="https://doi.org/10.1038/nmeth.4644" target="_blank">https://doi.org/10.1038/nmeth.4644</a>]]></description><link>notes/scrnaseqnotes/generalconcepts/bestpractices.html</link><guid isPermaLink="false">Notes/scRNAseqNotes/GeneralConcepts/BestPractices.md</guid><pubDate>Mon, 23 Sep 2024 11:07:52 GMT</pubDate></item><item><title><![CDATA[AMDpathophys]]></title><description><![CDATA[ 
+ <br><br>CD8+ observed in <a data-tooltip-position="top" aria-label="https://link.springer.com/chapter/10.1007/978-3-030-66014-7_6#ref-CR278" rel="noopener" class="external-link" href="https://link.springer.com/chapter/10.1007/978-3-030-66014-7_6#ref-CR278" target="_blank">choroid of human patients with GA</a> (2008 ezzat)<br>
+also in <a data-tooltip-position="top" aria-label="https://link.springer.com/chapter/10.1007/978-3-030-66014-7_6#ref-CR279" rel="noopener" class="external-link" href="https://link.springer.com/chapter/10.1007/978-3-030-66014-7_6#ref-CR279" target="_blank">neovascularized tissue from patients</a><br>
+2008,1991 respectively <br>RPE expresses <a data-tooltip-position="top" aria-label="https://link.springer.com/chapter/10.1007/978-3-030-66014-7_6#ref-CR280" rel="noopener" class="external-link" href="https://link.springer.com/chapter/10.1007/978-3-030-66014-7_6#ref-CR280" target="_blank">MHCII???</a><br>evidence for antigen-independent <a data-tooltip-position="top" aria-label="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=15208270" rel="noopener" class="external-link" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=15208270" target="_blank">CD8 T activation</a>]]></description><link>notes/amdpathophys.html</link><guid isPermaLink="false">Notes/AMDpathophys.md</guid><pubDate>Mon, 23 Sep 2024 11:58:31 GMT</pubDate></item><item><title><![CDATA[TmemDefsAndConcepts]]></title><description><![CDATA[ 
  <br><a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/" target="_blank">Concepts of Tmem derived form this review</a><br>
 PMID:&nbsp;<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/34127444" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/34127444" target="_blank">34127444</a> 2022<br>
 <br>Defining memory has been done previously with a broad brush
@@ -94,23 +127,14 @@ PMID:&nbsp;<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.ni
 
 
 <br>Classic definitions:<br>
-<br>
-Faster response to Antigen
-
-<br>
-Naive produce IL-2/IFN-y within 12 hours while Tmem &lt; 3hours
-
-<br>
-CD8 Tmem kill in vitro in under 5 hours<br>
+<br>Faster response to Antigen
+<br>Naive produce IL-2/IFN-y within 12 hours while Tmem &lt; 3hours
+<br>CD8 Tmem kill in vitro in under 5 hours<br>
 - in vivo LCMV model - 49-89% target kills are dead &lt;4 hours, eradication in &lt;24hours<br>
 - compared to naive which have zero capacity to kill.<br>
 Defining traits:
-
-<br>
-CD8 Tmem produce a large amount of IL-2 and IFN-y 
-
-<br>
-CD8 Tmem persist without antigen
+<br>CD8 Tmem produce a large amount of IL-2 and IFN-y 
+<br>CD8 Tmem persist without antigen
 
 <br>LCMV-sp CD8 can be adoptively txferred and persist "indefinitely": <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/7516038/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/7516038/" target="_blank">nature ref 1994</a>
 <br>CD8 Tmem can survive in absence of TCR in mhc-I or b2 macroglobulin knockouts <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/7516039/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/7516039/" target="_blank">here</a> and <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/10558996/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/10558996/" target="_blank">here</a>
@@ -119,26 +143,22 @@ overall take-home message
 <br>CD8 Tmem have rapid recall and persist independent of Ag
 
 
-<br>
-Isoforms of CD45 form broad discrimination between naive and memory T cells
-
-<br>
-Circulating properties of Tmem are classified by <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/10359116/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/10359116/" target="_blank">CCR7</a> NOTE: These are human definitions
+<br><br>
+<br>Isoforms of CD45 form broad discrimination between naive and memory T cells
+<br>Circulating properties of Tmem are classified by <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/10359116/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/10359116/" target="_blank">CCR7</a> NOTE: These are human definitions
 
 <br>CCR7+ CD45RA- Central Memory - Greater prolif. capacity
 <br>CCR7- CD45RA- Effector Memory - Greater cytokine producing, more markers of tissue homing
 
 
-<br>
-Mouse Analogues:
+<br>Mouse Analogues:
 
 <br>CD44+ CD62L+ Central memory <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/12563257/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/12563257/" target="_blank">nature immuno</a>
 <br>CD44+ CD62L- Effector memory
 <br>Resident memory: CD69+ CD103+ <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/15142524/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/15142524/" target="_blank">found by parabiosis</a>
 
 
-<br>
-Stem-like CD8 Tmem
+<br>Stem-like CD8 Tmem
 
 <br>CD45RA+CCR7+ also CD122+ CD95+<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/21926977/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/21926977/" target="_blank">here</a>
 
@@ -146,13 +166,19 @@ Stem-like CD8 Tmem
 <br>Defining memory is strictly done on the basis of antigen recognition.<br>
 Using surface markers is an inference based on the fact that memory cells also upregulated those markers in the literature.<br>E.g. OT-1 CD8 AT into irradiated hosts upregulate CD44 yet <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/10952725/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/10952725/" target="_blank">have never seen antigen</a> which is due to homeostatic proliferation.  in other words, naive t cells look like memory.  also shown <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/15548615/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/15548615/" target="_blank">here</a><br>
 Naive cells in this scenario do not have the same cytokine or proliferation properties as memory <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/19675163/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/19675163/" target="_blank">demonstrated again by the goldrath group and cheng group</a><br>CD45 expression is confusing at best. Early studies led people to understand that CD45RA expression is naive, but that is misleading.  By tetramer staining, Ag-sp CD8 T cells at peak of vaccine response are CD45RA-CCR7-, but re-expressed CD45 in a month <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/17535971" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/17535971" target="_blank">here</a> also <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/18468462" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/18468462" target="_blank">here</a>and <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C3" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C3" target="_blank">here</a><br>Thus, truly defining CD8 Tmem by markers is frought. Epigenetic definitions may give clarity to this problem.<br>Recent studies doing this: <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C40" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C40" target="_blank">russ 2014</a> <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C19" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C19" target="_blank">gray</a> <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C51" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C51" target="_blank">youngblood</a><br>
-epigentic programs are durable changes observed to be persistent in humans for <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C1" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C1" target="_blank">years</a> also <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C4" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C4" target="_blank">here</a><br>lacking epigenetic data - <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8392357/" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8392357/" target="_blank">this may offer some insight to defining memory by transcriptomics, however I have not reviewed this carefully</a>]]></description><link>notes/tmemdefsandconcepts.html</link><guid isPermaLink="false">Notes/TmemDefsAndConcepts.md</guid><pubDate>Mon, 23 Sep 2024 01:34:34 GMT</pubDate></item><item><title><![CDATA[CD3 Titrations]]></title><description><![CDATA[ 
+epigentic programs are durable changes observed to be persistent in humans for <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C1" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C1" target="_blank">years</a> also <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C4" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8886980/#PIBTCDA037804C4" target="_blank">here</a><br>lacking epigenetic data - <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8392357/" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8392357/" target="_blank">this may offer some insight to defining memory by transcriptomics, however I have not reviewed this carefully</a><br><br>aka memory phenotype.<br>
+naive inexperienced. approx 5-15% of circulating cd8<br>
+express conventional memory markers CD44, CD122 (high on both)<br>
+<a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C56" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C56" target="_blank">low levels of cd49d</a><br>
+relevant bc cd49d is <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/10952725" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/10952725" target="_blank">upregulated on antigen experience</a> - "permanently"<br>Tvmem are likely <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C22" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C22" target="_blank">trained in the thymus on self peptide</a><br>
+also have elevated <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C80" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C80" target="_blank">cd5</a> and <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C64" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C64" target="_blank">eomes</a><br>
+highly sensitive to <a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C91" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C91" target="_blank">il15</a><br>
+<a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C38" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091951/#PIBTCDA038661C38" target="_blank">high eomes drives high il2rb</a>]]></description><link>notes/tmemdefsandconcepts.html</link><guid isPermaLink="false">Notes/TmemDefsAndConcepts.md</guid><pubDate>Mon, 23 Sep 2024 11:45:43 GMT</pubDate></item><item><title><![CDATA[CD3 Titrations]]></title><description><![CDATA[ 
  <br>CD3 was <a data-tooltip-position="top" aria-label="2024-09-16" data-href="2024-09-16" href="calendarnotes/2024-09-16.html" class="internal-link" target="_self" rel="noopener">Titrated on RPE on 9.16.2024 on NaIodide eyes</a><br>
-and spleen.<br>NOTE - these are actually spleen images, misnamed<br>
+and spleen.<br>Made these images with EasyFlowQ<br>NOTE - these are actually spleen images, misnamed<br>
 <img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_1ul.webp" referrerpolicy="no-referrer"><br>
 <img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_2ul.webp" referrerpolicy="no-referrer"><br>
-<img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_3ul.webp" referrerpolicy="no-referrer">]]></description><link>results/cd3-titrations.html</link><guid isPermaLink="false">Results/CD3 Titrations.md</guid><pubDate>Wed, 18 Sep 2024 02:42:35 GMT</pubDate><enclosure url="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_1ul.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_1ul.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[E1_TimeCourseLaserLCNV]]></title><description><![CDATA[ 
- ]]></description><link>results/e1_timecourselaserlcnv.html</link><guid isPermaLink="false">Results/E1_TimeCourseLaserLCNV.md</guid><pubDate>Fri, 20 Sep 2024 02:34:58 GMT</pubDate></item><item><title><![CDATA[NormalDataScript]]></title><description><![CDATA[ 
+<img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_3ul.webp" referrerpolicy="no-referrer">]]></description><link>results/cd3-titrations.html</link><guid isPermaLink="false">Results/CD3 Titrations.md</guid><pubDate>Tue, 24 Sep 2024 03:12:33 GMT</pubDate><enclosure url="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_1ul.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/CD3RPE_1ul.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[NormalDataScript]]></title><description><![CDATA[ 
  <br><br>Seurat Dependencies<br>SeuratPackages &lt;- c('Seurat', 'dplyr','patchwork','glmGamPoi','presto','BPCells','sctransform',               'hdf5r','Azimuth','ggplot2','Signac','SeuratWrappers','BSgenome.Hsapiens.UCSC.hg38')
 lapply(SeuratPackages, library, character.only=TRUE)
 
@@ -243,7 +269,64 @@ Copy<br>#visualize canonical markers across the umap plot
 FeaturePlot(pbmc, features = c("MS4A1", "GNLY", "CD3E", "CD14", "FCER1A", "FCGR3A", "LYZ", "PPBP",
     "CD8A"))
 
-Copy]]></description><link>scrnaseq/normaldatascript.html</link><guid isPermaLink="false">scRNAseq/NormalDataScript.md</guid><pubDate>Sun, 22 Sep 2024 20:20:54 GMT</pubDate><enclosure url="https://raw.githubusercontent.com/sandelc/obsidian.io/master/Rplot0111.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/Rplot0111.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2024-09-16]]></title><description><![CDATA[ 
+Copy<br>working with regressed image:<br><img alt="gh" src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/ClustersRegressedPlotlabeled.png" referrerpolicy="no-referrer"><br>cluster#<br>
+0<br>
+1  Cd79a, Ms4a1 Iglc3 Iglc2... - B cells<br>
+2 Cd8a, Cd8b1, Cd3e, Cd3g, - CD8 T cells<br>
+3<br>
+4 Cd79a -  another B cell cluster<br>
+5:  Eomes, Klrg1   - NK cells<br>
+6: Cd4, Cd3e, Cd3g - CD4 T cells<br>
+7: Cd8a, Cd8b1         - CD8 T cells<br>
+8<br>
+9<br>
+10<br>
+11<br>
+12<br><br>#starting with the 10x data imported from cellranger
+scPBMC[["percent.mt"]] &lt;- PercentageFeatureSet(pbmc, pattern = "^mt-")
+scPBMC &lt;- SCTransform(pbmc, vars.to.regress = "percent.mt", verbose = FALSE)
+
+Copy<br>pbmc &lt;- RunPCA(pbmc, verbose = FALSE)
+pbmc &lt;- RunUMAP(pbmc, dims = 1:30, verbose = FALSE)
+
+pbmc &lt;- FindNeighbors(pbmc, dims = 1:30, verbose = FALSE)
+pbmc &lt;- FindClusters(pbmc, verbose = FALSE)
+DimPlot(pbmc, label = TRUE)
+Copy<br>asdf]]></description><link>scrnaseq/normaldatascript.html</link><guid isPermaLink="false">scRNAseq/NormalDataScript.md</guid><pubDate>Mon, 23 Sep 2024 17:04:23 GMT</pubDate><enclosure url="https://raw.githubusercontent.com/sandelc/obsidian.io/master/Rplot0111.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://raw.githubusercontent.com/sandelc/obsidian.io/master/Rplot0111.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2024-09-18]]></title><description><![CDATA[ 
+ <br><br>Phenotyping experiment - Goal to show a reproducible phenotype in the <a data-tooltip-position="top" aria-label="MethodsEtc/LCNV Model" data-href="MethodsEtc/LCNV Model" href="methodsetc/lcnv-model.html" class="internal-link" target="_self" rel="noopener">LCNV Model</a><br>
+<br>Primary readout - Flat mount to measure lesion size
+<br>4 mice in 1 laser group - Eyes taken at D7
+<br>4 mice in 2 laser group - Eyes taken at D14
+<br>Young mice (to be purchased soon) with the rationale of that is routine for the field.  Discussion as to the relevance to AMD (being a disease of older people)
+<br>Time Course Experiment - Goal is to determine what timepoint has the most immune cell population in the eye after inducing a memory/recall response with laser burn.<br>
+<br>Readout - <a data-tooltip-position="top" aria-label="MethodsEtc/Flow/CD8 mem Flow Panel" data-href="MethodsEtc/Flow/CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a>. Quantify the number of CD8 memory cells in the eye after injury.
+<br>Time points relative to the laser burn: Day 1, 4, 7
+<br>2 Groups - 1 laser burn events (1L) and 2 laser burn events (2L)
+]]></description><link>calendarnotes/2024-09-18.html</link><guid isPermaLink="false">CalendarNotes/2024-09-18.md</guid><pubDate>Wed, 18 Sep 2024 20:48:18 GMT</pubDate></item><item><title><![CDATA[2024-09-19]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-09-19.html</link><guid isPermaLink="false">CalendarNotes/2024-09-19.md</guid><pubDate>Fri, 20 Sep 2024 01:12:11 GMT</pubDate></item><item><title><![CDATA[2024-09-26]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="Results/E1_TimeCourseLaserLCNV" data-href="Results/E1_TimeCourseLaserLCNV" href="results/e1_timecourselaserlcnv.html" class="internal-link" target="_self" rel="noopener">E1_TimeCourseLaserLCNV</a> Flow on D7 1LB mice
+<br>Regun is doing FA and FP, train with him if possible
+]]></description><link>calendarnotes/2024-09-26.html</link><guid isPermaLink="false">CalendarNotes/2024-09-26.md</guid><pubDate>Fri, 20 Sep 2024 02:51:12 GMT</pubDate></item><item><title><![CDATA[2024-09-28]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" data-href="Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV" href="experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html" class="internal-link" target="_self" rel="noopener">Experiment2_E2_PhenotypingLCNV</a> Staining - Regun?
+]]></description><link>calendarnotes/2024-09-28.html</link><guid isPermaLink="false">CalendarNotes/2024-09-28.md</guid><pubDate>Fri, 20 Sep 2024 02:52:36 GMT</pubDate></item><item><title><![CDATA[2024-10-02]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-02.html</link><guid isPermaLink="false">CalendarNotes/2024-10-02.md</guid><pubDate>Fri, 20 Sep 2024 01:20:49 GMT</pubDate></item><item><title><![CDATA[2024-10-04]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-04.html</link><guid isPermaLink="false">CalendarNotes/2024-10-04.md</guid><pubDate>Fri, 20 Sep 2024 01:20:52 GMT</pubDate></item><item><title><![CDATA[2024-10-05]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-05.html</link><guid isPermaLink="false">CalendarNotes/2024-10-05.md</guid><pubDate>Fri, 20 Sep 2024 01:20:53 GMT</pubDate></item><item><title><![CDATA[2024-10-08]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-08.html</link><guid isPermaLink="false">CalendarNotes/2024-10-08.md</guid><pubDate>Fri, 20 Sep 2024 01:20:56 GMT</pubDate></item><item><title><![CDATA[2024-10-09]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-09.html</link><guid isPermaLink="false">CalendarNotes/2024-10-09.md</guid><pubDate>Fri, 20 Sep 2024 01:20:57 GMT</pubDate></item><item><title><![CDATA[2024-10-10]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-10.html</link><guid isPermaLink="false">CalendarNotes/2024-10-10.md</guid><pubDate>Fri, 20 Sep 2024 01:20:59 GMT</pubDate></item><item><title><![CDATA[2024-10-11]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-11.html</link><guid isPermaLink="false">CalendarNotes/2024-10-11.md</guid><pubDate>Fri, 20 Sep 2024 01:21:00 GMT</pubDate></item><item><title><![CDATA[2024-10-14]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-14.html</link><guid isPermaLink="false">CalendarNotes/2024-10-14.md</guid><pubDate>Fri, 20 Sep 2024 01:42:26 GMT</pubDate></item><item><title><![CDATA[2024-10-15]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-15.html</link><guid isPermaLink="false">CalendarNotes/2024-10-15.md</guid><pubDate>Fri, 20 Sep 2024 01:42:27 GMT</pubDate></item><item><title><![CDATA[2024-10-16]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-16.html</link><guid isPermaLink="false">CalendarNotes/2024-10-16.md</guid><pubDate>Fri, 20 Sep 2024 01:42:29 GMT</pubDate></item><item><title><![CDATA[2024-10-17]]></title><description><![CDATA[ 
+ ]]></description><link>calendarnotes/2024-10-17.html</link><guid isPermaLink="false">CalendarNotes/2024-10-17.md</guid><pubDate>Fri, 20 Sep 2024 01:42:31 GMT</pubDate></item><item><title><![CDATA[DevNotesP1]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="MethodsEtc/Flow/CD8 mem Flow Panel" data-href="MethodsEtc/Flow/CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a><br>This panel (P1) was run on RPE and Regun observed DP CD4/CD8 cells. Quite a lot.  <br>Assumption is that these cells are an artifact, but we need to make sure they are not occurring in the spleen.  If no DP cells are present in the spleen then the panel should be valid for the RPE also.<br>Same case with DN<br>CD3 clone x? had issues <br><br>
+<br>first run on <a data-href="2024-09-16" href="calendarnotes/2024-09-16.html" class="internal-link" target="_self" rel="noopener">2024-09-16</a> - did not observer any double positive cells.
+<br>CD3 on spleen titrated 1ul &lt; 2ul &lt; 3ul
+]]></description><link>methodsetc/flow/devnotesp1.html</link><guid isPermaLink="false">MethodsEtc/Flow/DevNotesP1.md</guid><pubDate>Fri, 20 Sep 2024 15:09:13 GMT</pubDate></item><item><title><![CDATA[E1_TimeCourseLaserLCNV]]></title><description><![CDATA[ 
+ ]]></description><link>results/e1_timecourselaserlcnv.html</link><guid isPermaLink="false">Results/E1_TimeCourseLaserLCNV.md</guid><pubDate>Fri, 20 Sep 2024 02:34:58 GMT</pubDate></item><item><title><![CDATA[2024-09-16]]></title><description><![CDATA[ 
  <br>
 <br>Collect eyes and spleen from 3 mice (6 eyes) treated with sodium iodide on <a data-href="2024-09-11" href="calendarnotes/2024-09-11.html" class="internal-link" target="_self" rel="noopener">2024-09-11</a> 
 <br><a data-tooltip-position="top" aria-label="TissueDigestion***REGUN PROTOCOL***" data-href="TissueDigestion***REGUN PROTOCOL***" href="methodsetc/tissuedigestion***regun-protocol***.html" class="internal-link" target="_self" rel="noopener">Stain and Digest</a> spleen+RPE for flow <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a>
@@ -251,11 +334,7 @@ Copy]]></description><link>scrnaseq/normaldatascript.html</link><guid isPermaLin
 <br>spleen with full <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a><br>
 RPE with full <a data-href="CD8 mem Flow Panel" href="methodsetc/flow/cd8-mem-flow-panel.html" class="internal-link" target="_self" rel="noopener">CD8 mem Flow Panel</a><br>titrate antibodies vs spleen needs plan<br>
 titrate antibodies vs rpe needs plan, needs info on how many cells<br>also use additional CD3 antibodies in single colors<br>Be at DMEI @ 10:30 Aurora flow. ]]></description><link>calendarnotes/2024-09-16.html</link><guid isPermaLink="false">CalendarNotes/2024-09-16.md</guid><pubDate>Wed, 18 Sep 2024 02:42:01 GMT</pubDate></item><item><title><![CDATA[CD8TcellBeadIsolation]]></title><description><![CDATA[ 
- ]]></description><link>methodsetc/cd8tcellbeadisolation.html</link><guid isPermaLink="false">MethodsEtc/CD8TcellBeadIsolation.md</guid><pubDate>Wed, 18 Sep 2024 02:37:34 GMT</pubDate></item><item><title><![CDATA[LCNV Model]]></title><description><![CDATA[ 
- <br>
-<br>240 watts 240ms laser
-<br>optimizing the timing of immune response/CNV formation
-]]></description><link>methodsetc/lcnv-model.html</link><guid isPermaLink="false">MethodsEtc/LCNV Model.md</guid><pubDate>Wed, 18 Sep 2024 02:36:55 GMT</pubDate></item><item><title><![CDATA[PilotStudy1]]></title><description><![CDATA[<a class="tag" href="?query=tag:Coculture" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Coculture</a> <a class="tag" href="?query=tag:CD8BeadIsolation" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CD8BeadIsolation</a> <a class="tag" href="?query=tag:TCellCulture" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TCellCulture</a> <a class="tag" href="?query=tag:CytotoxicityAssay" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CytotoxicityAssay</a> <a class="tag" href="?query=tag:InVitro" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#InVitro</a> 
+ ]]></description><link>methodsetc/cd8tcellbeadisolation.html</link><guid isPermaLink="false">MethodsEtc/CD8TcellBeadIsolation.md</guid><pubDate>Wed, 18 Sep 2024 02:37:34 GMT</pubDate></item><item><title><![CDATA[PilotStudy1]]></title><description><![CDATA[<a class="tag" href="?query=tag:Coculture" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Coculture</a> <a class="tag" href="?query=tag:CD8BeadIsolation" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CD8BeadIsolation</a> <a class="tag" href="?query=tag:TCellCulture" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TCellCulture</a> <a class="tag" href="?query=tag:CytotoxicityAssay" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CytotoxicityAssay</a> <a class="tag" href="?query=tag:InVitro" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#InVitro</a> 
  <br>We did a pilot study of our <a data-href="CD8-EyeCupExpt" href="publications/regunfirstauthor/experiments/functionalassays/cd8-eyecupexpt.html" class="internal-link" target="_self" rel="noopener">CD8-EyeCupExpt</a><br>2 Mice Sodium Iodide treated.  Eyes and spleen collected day 3.<br>
 Regun dissected eyecup, CES isolated CD8 T cells<br>We had four experimental conditions:<br>
 Healthy eye + healthy cd8  (HH)<br>
@@ -351,15 +430,7 @@ hint: Updates were rejected because the tip of your current branch is behind<br>
 hint: its remote counterpart. If you want to integrate the remote changes,<br>so i did this<br>
 git config.pull.rebase false<br>
 which i understand will make a 'merge'<br>then git pull origin master<br>
-then git push origin master worked<br><a rel="noopener" class="external-link" href="https://sandelc.github.io/obsidian.io/" target="_blank">https://sandelc.github.io/obsidian.io/</a> still live 9.15.2024]]></description><link>git/git-instructions-for-a-simple-mind.html</link><guid isPermaLink="false">Git/GIT instructions for a simple mind.md</guid><pubDate>Sun, 15 Sep 2024 15:00:21 GMT</pubDate></item><item><title><![CDATA[ProcedureMetrics]]></title><description><![CDATA[ 
- <br><a data-href="CD8TcellBeadIsolation" href="methodsetc/cd8tcellbeadisolation.html" class="internal-link" target="_self" rel="noopener">CD8TcellBeadIsolation</a><br>
-<br><a data-href="PilotStudy1" href="publications/regunfirstauthor/experiments/functionalassays/pilotstudy1.html" class="internal-link" target="_self" rel="noopener">PilotStudy1</a>
-
-<br>CD8 T cells ~1.8e6 - 2e6 per spleen
-<br>FITC labeling/anti-FITC beads
-
-
-]]></description><link>methodsetc/proceduremetrics.html</link><guid isPermaLink="false">MethodsEtc/ProcedureMetrics.md</guid><pubDate>Thu, 12 Sep 2024 03:56:45 GMT</pubDate></item><item><title><![CDATA[TissueDigestion***REGUN PROTOCOL***]]></title><description><![CDATA[ 
+then git push origin master worked<br><a rel="noopener" class="external-link" href="https://sandelc.github.io/obsidian.io/" target="_blank">https://sandelc.github.io/obsidian.io/</a> still live 9.15.2024]]></description><link>git/git-instructions-for-a-simple-mind.html</link><guid isPermaLink="false">Git/GIT instructions for a simple mind.md</guid><pubDate>Sun, 15 Sep 2024 15:00:21 GMT</pubDate></item><item><title><![CDATA[TissueDigestion***REGUN PROTOCOL***]]></title><description><![CDATA[ 
  <br>Regun's protocol:<br>
 <br>
 Minimum 6 eyes required
@@ -413,67 +484,7 @@ Proceed to staining or etc
 <br>
 Estimated time for digestion ~1hour
 
-<br>Regun's experience - good viability by flow. like 90% good.  Immediately go into flow stain. <br>Fix/perm - losing lots of cells.  troubleshoot ]]></description><link>methodsetc/tissuedigestion***regun-protocol***.html</link><guid isPermaLink="false">MethodsEtc/TissueDigestion***REGUN PROTOCOL***.md</guid><pubDate>Thu, 12 Sep 2024 20:23:44 GMT</pubDate></item><item><title><![CDATA[QC]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="https://www.embopress.org/doi/full/10.15252/msb.20188746" rel="noopener" class="external-link" href="https://www.embopress.org/doi/full/10.15252/msb.20188746" target="_blank">BestPracticesTutorialPublication</a><br>
-notes follow - <br>raw data - CellRanger, indrops, zUMIs do this.<br>
-Assigning reads to cell barcodes --- "Demultiplexing"<br>
-gene alignment, quantifiation<br>
-yields read/count matrix of BARCODES vs genes.<br>
-BC some barcodes may be tagged on more than one cell (doublet)<br>
-or no cells (empty droplet, empty well)<br>QC Metrics - (coviariates)<br>
-<br>Counts per barcode
-<br>Genes per barcode
-<br>%mt genes per barcode<br>
-<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/26887813/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/26887813/" target="_blank">classification of low quality cells from scrnaseq</a>
-<br>Other QC Metrics<br>
-<br>Read Quality - Filter on reads with over 30 in Q30 scores
-<br>Datasets with low Q30 scores in barcode read have poor cell assignment
-
-<br>poor Q30 scores in the RNA read will not be able to be aligned
-<br>Typical values 60-70% throughout, with highest in the barcode read
-
-
-<br>Alignment QC - 40% or higher exonic reads is good
-<br>Direct calculation ? - the % of reads that are in the dataset after count matrix is made. Can estimate the cell input (hemacytometer counts, flow counts) If we get around the same number of cells in a count matrix, amazing. 
-<br>QC metrics must be considered together, not in isolation. EG high mt counts may suggest involvement in respiration.  Cells/barcodes with low counts may be quiescent cells, high counts may be physically large cells.<br>
-Then how to make thresholding decisions?<br>
-Be permissive.<br>
-Consider whether a threshold removes more than the expected # of cells<br>Datasets with mixed cell populations may have multiple peaks in QC metrics<br>
-<br>Addressing QC parameters in an analysis workflow changes the output of downstream analysis methods ie pathways, clustering etc. 
-<br>Knowing whether the QC filters/methods applied are adequate is impossible to know, but can be inferred by performance of downstream analysis methods. 
-
-<br>Therefore, recursive analysis is required.
-
-
-<br><a data-tooltip-position="top" aria-label="https://www.nature.com/articles/s41586-018-0394-6" rel="noopener" class="external-link" href="https://www.nature.com/articles/s41586-018-0394-6" target="_blank">Determine QC metrics independently across samples as in this example</a><br><br>the simple approach is de-select cells that have unusually high gene counts.  In practice what does that mean i'm not sure.<br><a data-tooltip-position="top" aria-label="https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31286-0" rel="noopener" class="external-link" href="https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31286-0" target="_blank">DoubletDecon</a> is one doublet detection method<br>
-<a data-tooltip-position="top" aria-label="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6625319/" rel="noopener" class="external-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6625319/" target="_blank">Scrublet</a><br>
-<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/30954475/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/30954475/" target="_blank">DoubletFinder</a><br><br><a data-tooltip-position="top" aria-label="https://www.biorxiv.org/content/10.1101/303727v2" rel="noopener" class="external-link" href="https://www.biorxiv.org/content/10.1101/303727v2" target="_blank">soupx</a><br>
-also (<a rel="noopener" class="external-link" href="https://academic.oup.com/gigascience/article/9/12/giaa151/6049831" target="_blank">https://academic.oup.com/gigascience/article/9/12/giaa151/6049831</a>)<br>
-removes ambient rna by analyzing empty droplets?????<br><br>The wetlab process has a lot of room for error.  Cell digestion, isolation, sorting, capture/bead, RT, sequencing.<br>
-Count depth can vary greatly simply due to these processes, even when processed the same.  Therefore identical cells could potentially look very different.<br>
-Normalization is required to address this<br><br>a simple way is to scale the gene expression per cell by the total library size<br>
-CPM normalization. or scaling by the median count depth per cell<br>
-the assumption here is that all cells initially had equal RNA and the only difference in RELATIVE amounts is due to sampling error.<br>
-Downsampling has the same assumption. It randomly samples reads/counts so that all cells have a certain # of counts or less. (deletes data)<br>
-These approaches aren't great for mixed populations.  Maybe they are good for very uniform populations<br>
-<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/27122128/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/27122128/" target="_blank">this pooling method</a>  (scran) does a linear regression of genes after pooling all the cells, to estimate a size factor. and available <a data-tooltip-position="top" aria-label="https://bioconductor.org/packages/release/bioc/html/scran.html" rel="noopener" class="external-link" href="https://bioconductor.org/packages/release/bioc/html/scran.html" target="_blank">here?</a><br>
-Scran outperforms other normalization methods <a data-tooltip-position="top" aria-label="https://doi.org/10.1038/s41592-018-0254-1" rel="noopener" class="external-link" href="https://doi.org/10.1038/s41592-018-0254-1" target="_blank">one example in batch correction</a> and <a data-tooltip-position="top" aria-label="https://www.biorxiv.org/content/10.1101/583013v3" rel="noopener" class="external-link" href="https://www.biorxiv.org/content/10.1101/583013v3" target="_blank">DE analysis</a><br>Normalization with bulk methods was used at first but zero-inflated sc Data required new approaches<br>
-<a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/27122128/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/27122128/" target="_blank">one example</a> and a <a data-tooltip-position="top" aria-label="https://www.nature.com/articles/nmeth.4292" rel="noopener" class="external-link" href="https://www.nature.com/articles/nmeth.4292" target="_blank">second one</a> <a rel="noopener" class="external-link" href="https://doi.org/10.1038/nmeth.4292" target="_blank">https://doi.org/10.1038/nmeth.4292</a><br><br>Can account for more complex unwanted variation.<br>
-examples from <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/29513653/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/29513653/" target="_blank">Satijas? group</a><br><br>All these normalizations above apply to cells...  Normalization could be applied to genes.<br>
-The central question is - should all genes be weighted equally?<br>
-<br>put the way the paper i'm following today  - "is the magnitude of gene expression informative for the importance of the gene"<br>
-can evaluate normalization tools with <a data-tooltip-position="top" aria-label="https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30080-8" rel="noopener" class="external-link" href="https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30080-8" target="_blank">scone</a>
-<br><br>
-<br>3 important effects
-
-<br>Distance between log-txformed expression values become logFC, which is what we are typically trained to evaluate
-<br>log-txformation mitigates the mean-variance relationship in single cell data <a data-tooltip-position="top" aria-label="https://pubmed.ncbi.nlm.nih.gov/24056876/" rel="noopener" class="external-link" href="https://pubmed.ncbi.nlm.nih.gov/24056876/" target="_blank">by reducing technical noise?</a>
-<br>reduces the skewness of the data, so that assumptions of normality can be (sorta) met for downstream tools
-
-
-<br>SCRNASEQ is not lognormal data <a data-tooltip-position="top" aria-label="https://academic.oup.com/bioinformatics/article/33/21/3486/3952669" rel="noopener" class="external-link" href="https://academic.oup.com/bioinformatics/article/33/21/3486/3952669" target="_blank">powsimrPaperDiscusses?</a>
-<br>Log transformation <a data-tooltip-position="top" aria-label="https://www.biorxiv.org/content/10.1101/404962v1" rel="noopener" class="external-link" href="https://www.biorxiv.org/content/10.1101/404962v1" target="_blank">can introduce error</a>
-]]></description><link>notes/scrnaseqnotes/generalconcepts/qc.html</link><guid isPermaLink="false">Notes/scRNAseqNotes/GeneralConcepts/QC.md</guid><pubDate>Mon, 16 Sep 2024 03:17:19 GMT</pubDate></item><item><title><![CDATA[Imputation in single cell]]></title><description><![CDATA[ 
+<br>Regun's experience - good viability by flow. like 90% good.  Immediately go into flow stain. <br>Fix/perm - losing lots of cells.  troubleshoot ]]></description><link>methodsetc/tissuedigestion***regun-protocol***.html</link><guid isPermaLink="false">MethodsEtc/TissueDigestion***REGUN PROTOCOL***.md</guid><pubDate>Thu, 12 Sep 2024 20:23:44 GMT</pubDate></item><item><title><![CDATA[Imputation in single cell]]></title><description><![CDATA[ 
  <br>Considered imputation on scRNAseq datasets<br>
 <a data-tooltip-position="top" aria-label="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02132-x#Sec8" rel="noopener" class="external-link" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02132-x#Sec8" target="_blank">Imputation may not be useful for downstream analysis</a><br><a data-tooltip-position="top" aria-label="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05417-7#Sec9" rel="noopener" class="external-link" href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05417-7#Sec9" target="_blank">Another 2023 benchmarking study showed imputation improved simulated datasets, but barely improved real datasets</a><br>
 <br>this study did recommend SAVER and NE for downstream analysis.

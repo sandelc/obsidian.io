@@ -1,6 +1,6 @@
 {
   "vaultName": "LabNotes",
-  "lastExport": 1727055290156,
+  "lastExport": 1728050560322,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -38,19 +38,19 @@
     "CalendarNotes/2024-10-15.md",
     "CalendarNotes/2024-10-16.md",
     "CalendarNotes/2024-10-17.md",
-    "Experiments/LCNVseriesE1toE4/Experiment1_E1_1LBvs2LB.md",
-    "Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV.md",
-    "Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup.md",
-    "Experiments/LCNVseriesE1toE4/Experiment4_E4_AdoptiveTxfer.md",
     "Git/GIT instructions for a simple mind.md",
     "MethodsEtc/Flow/CD8 mem Flow Panel.md",
     "MethodsEtc/Flow/DevNotesP1.md",
+    "MethodsEtc/Flow/Macrophage Panel.md",
     "MethodsEtc/CD8TcellBeadIsolation.md",
+    "MethodsEtc/EyeCup LiveDead stain fix.md",
     "MethodsEtc/LCNV Model.md",
     "MethodsEtc/ProcedureMetrics.md",
     "MethodsEtc/TissueDigestion***REGUN PROTOCOL***.md",
-    "Notes/scRNAseqNotes/GeneralConcepts/QC.md",
+    "Notes/scRNAseqNotes/GeneralConcepts/Action items.md",
+    "Notes/scRNAseqNotes/GeneralConcepts/BestPractices.md",
     "Notes/scRNAseqNotes/imputation/Imputation in single cell.md",
+    "Notes/AMDpathophys.md",
     "Notes/TmemDefsAndConcepts.md",
     "Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8-EyeCupExpt.md",
     "Publications/RegunFirstAuthor/Experiments/FunctionalAssays/CD8CultureConditions.md",
@@ -130,181 +130,181 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 30860,
+      "modifiedTime": 1728050560322,
+      "sourceSize": 29478,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 4423,
+      "modifiedTime": 1728050560322,
+      "sourceSize": 3755,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 3162,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -370,7 +370,7 @@
       "dependencies": []
     },
     "CalendarNotes/2024-09-20.md": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 292,
       "exportedPath": "calendarnotes/2024-09-20.html",
       "dependencies": []
@@ -388,14 +388,14 @@
       "dependencies": []
     },
     "MethodsEtc/LCNV Model.md": {
-      "modifiedTime": 1726627396727,
-      "sourceSize": 84,
+      "modifiedTime": 1728050560322,
+      "sourceSize": 85,
       "exportedPath": "methodsetc/lcnv-model.html",
       "dependencies": []
     },
     "MethodsEtc/ProcedureMetrics.md": {
-      "modifiedTime": 1726594721396,
-      "sourceSize": 116,
+      "modifiedTime": 1728050560322,
+      "sourceSize": 473,
       "exportedPath": "methodsetc/proceduremetrics.html",
       "dependencies": []
     },
@@ -403,12 +403,6 @@
       "modifiedTime": 1726594721396,
       "sourceSize": 776,
       "exportedPath": "methodsetc/tissuedigestion***regun-protocol***.html",
-      "dependencies": []
-    },
-    "Notes/scRNAseqNotes/GeneralConcepts/QC.md": {
-      "modifiedTime": 1726594721396,
-      "sourceSize": 5411,
-      "exportedPath": "notes/scrnaseqnotes/generalconcepts/qc.html",
       "dependencies": []
     },
     "Notes/scRNAseqNotes/imputation/Imputation in single cell.md": {
@@ -478,19 +472,19 @@
       "dependencies": []
     },
     "CalendarNotes/2024-09-23.md": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 94,
       "exportedPath": "calendarnotes/2024-09-23.html",
       "dependencies": []
     },
     "CalendarNotes/2024-09-24.md": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 160,
       "exportedPath": "calendarnotes/2024-09-24.html",
       "dependencies": []
     },
     "CalendarNotes/2024-09-25.md": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 112,
       "exportedPath": "calendarnotes/2024-09-25.html",
       "dependencies": []
@@ -502,8 +496,8 @@
       "dependencies": []
     },
     "CalendarNotes/2024-09-27.md": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 301,
+      "modifiedTime": 1728050560322,
+      "sourceSize": 367,
       "exportedPath": "calendarnotes/2024-09-27.html",
       "dependencies": []
     },
@@ -514,19 +508,19 @@
       "dependencies": []
     },
     "CalendarNotes/2024-09-29.md": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 119,
       "exportedPath": "calendarnotes/2024-09-29.html",
       "dependencies": []
     },
     "CalendarNotes/2024-09-30.md": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 0,
+      "modifiedTime": 1728050560322,
+      "sourceSize": 120,
       "exportedPath": "calendarnotes/2024-09-30.html",
       "dependencies": []
     },
     "CalendarNotes/2024-10-01.md": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 0,
       "exportedPath": "calendarnotes/2024-10-01.html",
       "dependencies": []
@@ -538,8 +532,8 @@
       "dependencies": []
     },
     "CalendarNotes/2024-10-03.md": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 0,
+      "modifiedTime": 1728050560322,
+      "sourceSize": 182,
       "exportedPath": "calendarnotes/2024-10-03.html",
       "dependencies": []
     },
@@ -603,39 +597,15 @@
       "exportedPath": "calendarnotes/2024-10-17.html",
       "dependencies": []
     },
-    "Experiments/LCNVseriesE1toE4/Experiment1_E1_1LBvs2LB.md": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 1545,
-      "exportedPath": "experiments/lcnvseriese1toe4/experiment1_e1_1lbvs2lb.html",
-      "dependencies": []
-    },
-    "Experiments/LCNVseriesE1toE4/Experiment2_E2_PhenotypingLCNV.md": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 756,
-      "exportedPath": "experiments/lcnvseriese1toe4/experiment2_e2_phenotypinglcnv.html",
-      "dependencies": []
-    },
-    "Experiments/LCNVseriesE1toE4/Experiment3_E3_EyeCup.md": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 42,
-      "exportedPath": "experiments/lcnvseriese1toe4/experiment3_e3_eyecup.html",
-      "dependencies": []
-    },
-    "Experiments/LCNVseriesE1toE4/Experiment4_E4_AdoptiveTxfer.md": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 601,
-      "exportedPath": "experiments/lcnvseriese1toe4/experiment4_e4_adoptivetxfer.html",
-      "dependencies": []
-    },
     "Notes/TmemDefsAndConcepts.md": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 3932,
+      "modifiedTime": 1728050560322,
+      "sourceSize": 4848,
       "exportedPath": "notes/tmemdefsandconcepts.html",
       "dependencies": []
     },
     "Results/CD3 Titrations.md": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 387,
+      "modifiedTime": 1728050560322,
+      "sourceSize": 419,
       "exportedPath": "results/cd3-titrations.html",
       "dependencies": []
     },
@@ -646,15 +616,45 @@
       "dependencies": []
     },
     "scRNAseq/NormalDataScript.md": {
-      "modifiedTime": 1727055290156,
-      "sourceSize": 6332,
+      "modifiedTime": 1728050560322,
+      "sourceSize": 7180,
       "exportedPath": "scrnaseq/normaldatascript.html",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1727055290156,
+      "modifiedTime": 1728050560322,
       "sourceSize": 75869,
       "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "MethodsEtc/Flow/Macrophage Panel.md": {
+      "modifiedTime": 1728050560322,
+      "sourceSize": 0,
+      "exportedPath": "methodsetc/flow/macrophage-panel.html",
+      "dependencies": []
+    },
+    "MethodsEtc/EyeCup LiveDead stain fix.md": {
+      "modifiedTime": 1728050560322,
+      "sourceSize": 172,
+      "exportedPath": "methodsetc/eyecup-livedead-stain-fix.html",
+      "dependencies": []
+    },
+    "Notes/scRNAseqNotes/GeneralConcepts/Action items.md": {
+      "modifiedTime": 1728050560322,
+      "sourceSize": 468,
+      "exportedPath": "notes/scrnaseqnotes/generalconcepts/action-items.html",
+      "dependencies": []
+    },
+    "Notes/scRNAseqNotes/GeneralConcepts/BestPractices.md": {
+      "modifiedTime": 1728050560322,
+      "sourceSize": 5515,
+      "exportedPath": "notes/scrnaseqnotes/generalconcepts/bestpractices.html",
+      "dependencies": []
+    },
+    "Notes/AMDpathophys.md": {
+      "modifiedTime": 1728050560322,
+      "sourceSize": 562,
+      "exportedPath": "notes/amdpathophys.html",
       "dependencies": []
     }
   }
